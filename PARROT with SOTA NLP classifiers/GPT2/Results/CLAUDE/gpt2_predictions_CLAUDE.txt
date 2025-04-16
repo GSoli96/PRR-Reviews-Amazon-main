@@ -1,0 +1,27 @@
+Accuracy 0.5610599078341014
+Precision 0.7143030167514488
+Sensitivity_recall 0.5610599078341014
+F1_score 0.46550946689616723
+
+🔹 Metriche per ciascuna classe
+🔸 Classe Fake
+Precision = 120 / (120 + 14) ≈ 0.896
+
+Recall = 120 / (120 + 748) ≈ 0.138
+
+F1-score ≈ 0.237
+
+🔸 Classe Real
+Precision = 854 / (854 + 748) ≈ 0.533
+
+Recall = 854 / (854 + 14) ≈ 0.984
+
+F1-score ≈ 0.692
+
+🔹 Metriche Globali
+Metriсa	Valore
+Accuracy	0.561
+Macro Precision	0.714
+Macro Recall	0.561
+Macro F1-score	0.465
+Micro F1-score	0.561

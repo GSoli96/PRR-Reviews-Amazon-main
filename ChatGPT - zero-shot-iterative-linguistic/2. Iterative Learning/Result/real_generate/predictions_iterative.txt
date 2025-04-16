@@ -1,0 +1,5 @@
+Metrics:
+Accuracy_score: 0.8773584905660378
+Precision_score: 0.8703703703703703
+Recall_score: 0.8867924528301887
+F1_Score: 0.8785046728971964

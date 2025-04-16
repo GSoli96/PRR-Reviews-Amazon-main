@@ -1,0 +1,6 @@
+Accuracy 0.42
+Precision 0.10638297872340426
+Sensitivity_recall 0.1
+F1_score 0.10309278350515465
+
+Real - Computer Generated

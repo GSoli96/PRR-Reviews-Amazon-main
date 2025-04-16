@@ -1,0 +1,6 @@
+Accuracy 0.79
+Precision 0.967741935483871
+Sensitivity_recall 0.6
+F1_score 0.7407407407407407
+
+real - Human defined

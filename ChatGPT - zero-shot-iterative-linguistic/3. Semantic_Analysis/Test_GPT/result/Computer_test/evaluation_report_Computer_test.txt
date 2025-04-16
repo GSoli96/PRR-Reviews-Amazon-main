@@ -1,0 +1,14 @@
+=== Evaluation Report for Computer_test ===
+Accuracy: 0.3400
+Precision: 0.5185
+Recall: 0.1400
+F1-score: 0.2205
+
+              precision    recall  f1-score   support
+
+           0       0.30      0.74      0.43       868
+           1       0.52      0.14      0.22       868
+
+    accuracy                           0.34       1736
+   macro avg       0.41      0.44      0.32       1736
+weighted avg       0.45      0.34      0.29       1736

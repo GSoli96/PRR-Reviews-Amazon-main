@@ -1,0 +1,4 @@
+Accuracy 0.5
+Precision 0.6033057851239669
+Sensitivity_recall 0.73
+F1_score 0.6606334841628959

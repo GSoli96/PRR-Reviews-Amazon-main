@@ -1,0 +1,869 @@
+ID;Titolo;content;label
+1;Prodotto valido;Il prodotto ha superato le mie aspettative in termini di qualit‡ e prestazioni. … sicuramente un investimento valevole.;1
+2;Fa sudare;Sono deluso da questo prodotto. Non ha soddisfatto le mie aspettative e non lo consiglio a nessuno.;1
+3;NHEIMA canotta  .;Amo questo prodotto! … perfetto per la mia prima colazione e il design Ë bellissimo.;1
+4;Difficile da indossare.;Avevo grandi aspettative per questo prodotto, ma purtroppo non mi si adatta bene e È scomodo da indossare.;1
+5;Scomoda e larga;Sono entusiasta di provare questo prodotto, ma È stato un disappunto. Non È confortevole e la qualit‡ non È buona.;1
+6;Pessimo acquisto;Non consiglio questo prodotto a nessuno. La qualit‡ È povera e non È valsa la pena.;1
+7;Complessivamente molto buono.;In generale, sono molto soddisfatto di questo prodotto. La qualit‡ È ottima e È facile da usare.;1
+8;calda;Questo prodotto È fantastico! … perfetto per l'estate e mi tiene fresco tutto il giorno.;1
+9;Acquisto canotta fitnes e leggins;Sono felice di aver acquistato questo prodotto. La qualit‡ È ottima e È perfetto per i miei allenamenti.;1
+10;NON BENE;Sono stato molto entusiasta di provare questo prodotto, ma È stato un deluso. La qualit‡ È povera e non lo consiglio.;1
+11;Buono ma fragile;Mi piace questo prodotto, ma È un po' fragile. Non È molto duraturo e devo essere preciso nell'usarlo.;1
+12;Buono;Questo prodotto È grande! La qualit‡ È buona e È facile da usare. Sono molto soddisfatto.;1
+13;Buon rapporto qualit√† prezzo;Buon rapporto qualit‡ prezzo - Sono rimasto impressionato da questo prodotto. La qualit‡ È ottima e il prezzo È ragionevole. Lo consiglio sicuramente.;1
+14;Fa bene il suo lavoro;Sono molto contento di questo prodotto. Fa il suo lavoro bene e la qualit‡ È buona.;1
+15;Non lo riacquisterei;Sfortunatamente, non acquisterei questo prodotto di nuovo. La qualit‡ È povera e non ha soddisfatto le mie aspettative.;1
+16;tessuto rigido taglie non conformi;Ho acquistato questo prodotto e mi Ë stato Korbel, le taglie non sono conformi e il tessuto È rigido.;1
+17;non puzza e la taglia √® giusta!;non puzza e la taglia Ë giusta! - Sono felice di aver acquistato questo prodotto. La taglia È giusta e non puzza affatto.;1
+18;Delusa;Sono delusa da questo prodotto. Non È come ci si aspetta e non È facile da usare.;1
+19;Peccato!;Peccato! Questo prodotto avrebbe potuto essere fantastico, invece È stato un completo fallimento.;1
+20;PRODOTTO VALIDO MA PUZZA TERRIBILMENTE;Questo prodotto È valido, ma puzza in modo terribile. Non È possibile utilizzarlo.;1
+21;Canotta sauna;Questa canotta È perfetta per la sauna. … calda e si sente proprio bene.;1
+22;Ben fatto  per√≤ attenti a non sovraccaricare il cuore;Questo prodotto È ben fatto, however Ë importante non sovraccaricare il cuore.;1
+23;da evitare;Questo prodotto È da evitare. Non È facile da usare e non È Affidabile.;1
+24;Canotta dimagrante;Questa canotta È perfetta per chi vuole dimagrire. … leggera e si sente bene.;1
+25;Purtroppo puzza;Purtroppo, questo prodotto puzza. Non È possibile utilizzarlo.;1
+26;ad oggi mi pento e lo rendo;Sono pentito di aver acquistato questo prodotto. Non È conforme alle mie aspettative e non È facile da usare.;1
+27;Pratica e abbastanza calda;Questo prodotto È pratico e abbastanza caldo. … perfetto per le attivit‡ all'aperto.;1
+28;Buona ma...occhio alle taglie;Questo prodotto È buono, however Ë importante essere attenti alle taglie. Non È facile da trovare la taglia giusta.;1
+29;Canotta;Questa canotta È perfetta per la mia attivit‡ sportiva. … leggera e si sente bene.;1
+30;Descrizione fasulla.. No neoprene..;Questo prodotto non È come descritto. Non È fatta di neoprene e non È facile da usare.;1
+31;Buon prodotto ma non completo;Il prodotto Ë di buona qualit‡, peccato che manchi some expected components. Spero che in futuro possano essere forniti tutti i componenti promessi.;1
+32;Buona qualita prezzo;Il prodotto ha un ottimo rapporto qualit‡-prezzo. Non puÚ certo competere con altri prodotti di maggiore prezzo, ma per il suo prezzo Ë di buona qualit‡.;1
+33;Fascia;Il prodotto Ë molto bello e di buona qualit‡, ma non Ë facile da montare. Sono necessari alcuni attrezzi speciali per montarlo correttamente.;1
+34;Canotta dimagrire;Il prodotto Ë veramente utile per dimagrire. Peccato che non sia stata fornita una guide esplicative sul modo di utilizzare al meglio.;1
+35;Come dal benzinaio!;Il prodotto Ë veramente simile a quello che si trova in una stazione di servizio. Peccato che non sia stato fornito un manuale di istruzioni per l'uso.;1
+36;Giusto;Il prodotto Ë conforme alla descrizione e fa il suo dovere. Nessun problema o lagnanze.;1
+37;Articolo conforme alla descrizione;Il prodotto Ë esattamente come descritto. Ottimo!;1
+38;buon prodotto;Il prodotto Ë di buona qualit‡ e fa il suo dovere. Nessun problema o lagnanze.;1
+39;Poco pratiche;Il prodotto Ë di buona qualit‡, ma non Ë molto pratico da usare. Sono necessarie alcune modifiche per renderlo pi˘ agevole da utilizzare.;1
+40;Scoraggiante;Il prodotto Ë veramente scoraggiante. Non Ë facile da utilizzare e non sembra fare il suo dovere.;1
+41;No;Il prodotto non Ë di buona qualit‡. Non fa il suo dovere e non Ë degno di fiducia.;1
+42;Extender funzionate ma non conforme alle caratteristiche tecniche;Il prodotto Ë di buona qualit‡, ma non rispetta le caratteristiche tecniche promise. Peccato, porque avrebbe potuto essere un prodotto migliore.;1
+43;altro che 30- 50 metri solo pochi metri;Il prodotto non Ë conforme alla descrizione. Mi aspettavo di pi˘, visto il prezzo che ho pagato.;1
+44;Qualche problemino;Il prodotto ha alcuni piccoli problemi, ma nulla di grave. Peccato che non sia stato possibile fornire una soluzione immediate.;1
+45;Fanno il loro dovere.;Il prodotto fa il suo dovere, ma non Ë niente di speciale. Non Ë degno di fiducia e non lo consiglio a chi cerca un prodotto di qualit‡.;1
+46;Sconsigliato;Non consiglio questo prodotto a nessuno. … stato un grande disappunto e non vale la pena.;1
+47;NON FUNZIONA SU CAT 7 SFTP 25 metri;NON FUNZIONA SU CAT 7 SFTP 25 metri - Ho provato questo prodotto, ma non funziona con la mia catena di alimentazione a 7 SFTP. Sono stato molto deluso.;1
+48;Ha creato problemi.;Questo prodotto ha creato problema after problem. Non È stato facile da usare e ha causato pi˘ fastidi di quanti ne vale la pena.;1
+49;TV OK  ma il telecomando non funziona;La TV È alta qualit‡, ma il telecomando non funziona correttamente. … stato un problema notevole.;1
+50;Affidabilit√† zero;Affidabilit√† zero - Non c'Ë modo di fidarsi di questo prodotto. Non funziona come dovrebbe e non È affidabile.;1
+51;PW-HT225PIR Extender;HT225PIR Extender - Questo prodotto È stato utile per estendere la mia rete, ma non È stato facile da configurare.;1
+52;Diciamo sufficiente ma non Ottimo;Questo prodotto È sufficiente per il mio uso, ma non È ottimo. Ci sono stati alcuni problemi di compatibilit‡.;1
+53;Pessimi;Questo prodotto È stato un completo fallimento. Non funziona come dovrebbe e non È stato utile.;1
+54;Salutable y con attenzione;Ho dovuto acquistare questo prodotto due volte perchÈ il primo non funzionava correttamente. Spero che il secondo funzioni meglio.;1
+55;su di me non ha funzionato;Questo prodotto non ha funzionato per me. Non È stato facile da usare e non ha soddisfatto le mie aspettative.;1
+56;Importante che n ingeriamo sostanze tossiche;Questo prodotto È importante per la mia salute. Non Ingerezzo sostanze tossiche e È stato facile da usare.;1
+57;Difficili da deglutire;Questo prodotto È difficile da deglutire. Non È facile da prendere e non È piacevole.;1
+58;Buono;Questo prodotto È buono. Non È stato facile da usare, ma ha funzionato come dovrebbe.;1
+59;Soldi spesi male?;Sono stato un po' deluso da questo prodotto. Non È stato facile da usare e non È stato proprio vale la pena.;1
+60;Per me non funziona ..;Questo prodotto non funziona per me. Non È stato facile da usare e non ha soddisfatto le mie aspettative.;1
+61;non √® cambiato nulla!;non Ë cambiato nulla! - Ho provato questo prodotto e non È cambiato nulla. Non È utile e non funziona come dovrebbe.;1
+62;Benefici gi√† dopo una settimana;Benefici gi‡ dopo una settimana - Sono state settimane che uso questo prodotto e cambio gi‡ dei benefici. … fantastico!;1
+63;Inutile;Questo prodotto È inutile. Non funziona come dovrebbe e non È utile.;1
+64;Buon prodotto;Questo prodotto È buono. Funziona bene e È facile da usare.;1
+65;√à in pastiglie senza un gusto particolare;» in pastiglie senza un gusto particolare - Questo prodotto È in pastiglie senza un gusto particolare. Non È facile da prendere e non È piacevole.;1
+66;CURCUMA+PIPERINA | ALTO DOSAGGIO;CURCUMA+PIPERINA | ALTO DOSAGGIO - Questo prodotto È fantastico. Cura la mia Digestione e È facile da prendere.;1
+67;Pasticche scomodissime che macchiano;Queste pasticche sonoscomodissime e macchiano. Non È facile da usarle e non È piacevole.;1
+68;Buon prodotto;Questo prodotto È buono. Funziona bene e È facile da usare.;1
+69;INUTILI!!!;Questo prodotto È inutile. Non funziona come dovrebbe e non È utile.;1
+70;Solo bruciore di stomaco;Questo prodotto solo provocare bruciore di stomaco. Non È facile da usarare e non È piacevole.;1
+71;Nessun beneficio;Ho provato questo prodotto e non ho ricevuto alcun beneficio. Non È utile e non funziona come dovrebbe.;1
+72;"Niente sudore ""in pi√π""  classici";Niente sudore in pi˘  classici - Questo prodotto È fantastico. Non ci sono sudore in pi˘ e È facile da portare.;1
+73;Devo ancora usarli ma..;Devo ancora usarli ma non È facile da usarare e non È piacevole.;1
+74;Mi piacciono;Questo prodotto mi piace. … facile da usare e È piacevole.;1
+75;Non molto soddisfatta;Non sono molto soddisfatta di questo prodotto. Non È come aspettato e non È facile da usare.;1
+76;Taglie non corrispondenti;Le taglie del prodotto non corrispondono a quelle indicate. Sono state fornite taglie troppo piccole e non adatte al mio corpo.;1
+77;Ottimo prodotto;Il prodotto Ë di ottima qualit‡ e fa il suo dovere. Non ci sono lagnanze o problemi.;1
+78;Non aumentano la sudorazione;Il prodotto non aumenta la sudorazione come promesso. Sono delusione because non riesco a sudare come speravo.;1
+79;Le taglie vestono piccole.;Le taglie del prodotto sono troppo piccole e non adatte alla mia fisicit‡.;1
+80;Non aspettiamoci miracoli;Il prodotto non fa miracoli, ma fa il suo dovere. Non ha funzionato per me, ma potrebbe funzionare per te.;1
+81;Cos√¨ Cos√¨;Il prodotto Ë come descritto. Non c'Ë niente di speciale, ma non c'Ë niente di male either.;1
+82;Brutti e poco funzionali;Il prodotto Ë brutto e non funzionale. Non vale la pena spentare soldi per questo prodotto.;1
+83;Buon acquisto occhio alla taglia;Il prodotto Ë di buona qualit‡, ma Ë importante acquistare la taglia giusta.;1
+84;Credo sia meglio una taglia in pi√π;Il prodotto ha bisogno di una taglia in pi˘ per adattarsi alla mia fisicit‡.;1
+85;Vestibilit√† perfetta;Il prodotto ha una vestibilit‡ perfetta e mi si adatta molto bene.;1
+86;Bello;Il prodotto Ë bello e di buona qualit‡. Non ci sono lagnanze o problemi.;1
+87;Speriamo bene;Spero che il prodotto funzioni bene, ma non ne sono sicuro.;1
+88;Non male ma da perfezionare;Il prodotto non Ë male, ma ci sono alcune cose da perfezionare.;1
+89;Pessima qualit√† e praticamente immettibili;Il prodotto ha una pessima qualit‡ e non Ë praticamente immettibile. Non lo consiglio a nessuno.;1
+90;Lascia le pelle molto morbida;Il prodotto lascia le pelle molto morbida e non Ë comfortable da indossare.;1
+91;Effetto sauna; Abbiamo acquistato questo prodotto sperando di poter beneficiare dell'effetto sauna without spendendo troppo. Dopo averlo utilizzato per alcune sedute, Abbiamo dovuto constatare che non comunica alcun effetto significativo. Il prodotto Ë semplicemente una frode. (150 parole, 20% di sentiment negativo);1
+92;Con 32gb dopo 5 ore di registrazione la scheda √® piena; Abbiamo acquistato questo prodotto per la registrazione delle nostre attivit‡. Tuttavia, After only 5 hours of recording, the memory was full. This product is not worth the price. (150 parole, 30% di sentiment negativo);1
+93;ISTRUZIONI IN ITALIANO? NO!; Abbiamo acquistato questo prodotto sperando di poterlo utilizzare subito. Tuttavia, non ci sono istruzioni in italiano e non siamo in grado di utilizzarlo. Siamo delusi dal produttore. (150 parole, 30% di sentiment negativo);1
+94;Prodotto durato poco; Abbiamo acquistato questo prodotto con molte aspettative, tuttavia, Ha durato solo un mese e mezzo. Non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+95;Ti vendono la luna ma in effetti √® solo una foto della luna; Abbiamo acquistato questo prodotto pensando di ricevere qualcosa di speciale. Tuttavia, in realt‡, si tratta solo di una foto della luna. Non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+96;Passare oltre...; Abbiamo acquistato questo prodotto sperando di poter superare i nostri limiti. Tuttavia, non Ë stato utile per noi e non lo consiglieremmo a nessuno. (150 parole, 30% di sentiment negativo);1
+97;per il prezzo non si deve pretendere ma....; Abbiamo acquistato questo prodotto a buon prezzo, tuttavia, Non vale la pena. Non funziona come dovrebbe e non Ë durato a lungo. (150 parole, 40% di sentiment negativo);1
+98;Fa pena!; Abbiamo acquistato questo prodotto con molte aspettative, tuttavia, Non funziona affatto. Non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+99;Non funziona; Abbiamo acquistato questo prodotto sperando di poterlo utilizzare per le nostre attivit‡. Tuttavia, non funziona affatto. Non lo consiglieremmo a nessuno. (150 parole, 40% di sentiment negativo);1
+100;Ottimo rapporto qualit√†/prezzo.; Abbiamo acquistato questo prodotto sperando di poter beneficiare di un buon rapporto qualit‡-prezzo. E' veramente un ottimo prodotto e lo consiglieremmo a tutti. (150 parole, 10% di sentiment negativo);1
+101;Rileva movimento solo a pochi centimetri. Ripresa brevissime.; Abbiamo acquistato questo prodotto sperando di poter monitorare il nostro movimento. Tuttavia, solo rileva i movimenti a pochi centimetri e la ripresa Ë molto breve. Non vale la pena spendere soldi per questo prodotto. (150 parole, 30% di sentiment negativo);1
+102;Ottimo rapporto qualit√† prezzo; Abbiamo acquistato questo prodotto sperando di poter beneficiare di un buon rapporto qualit‡-prezzo. E' veramente un ottimo;1
+103;Buono;Il prodotto Ë molto buono, fa il suo lavoro alla perfezione. Non ho riscontrato alcun problema durante l'utilizzo.;1
+104;Fa il suo lavoro;Il prodotto Ë semplice da usare e fa il suo lavoro alla perfezione. Non c'Ë bisogno di alcuna conoscenza tecnica per utilizzarlo.;1
+105;Richiesto il reso. Ha funzionato una volta sola.;Sono stato un po' deluso dal prodotto, ha funzionato solo una volta. Spero che il problema possa essere risolto con un reso.;1
+106;Che non serve a nulla!!!;Questo prodotto non serve a nulla. Non fa niente di utile e non vale la pena spendere soldi per acquistarlo.;1
+107;Scarso;Il prodotto Ë scarso e non offre niente di speciale. Non Ë degno di fiducia e non lo consiglio a nessuno.;1
+108;Non la riprenderei;Non la riprenderei nemmeno se fosse l'ultima cosa sul mercato. Non fa niente di buono e non vale la pena spendere soldi per acquistarlo.;1
+109;Funziona bene;Il prodotto funziona bene e fa il suo dovere. Non ci sono lagnanze o problemi.;1
+110;Discreto prodotto;Il prodotto Ë discreto e fa il suo dovere. Non c'Ë niente di speciale, ma non c'Ë niente di male either.;1
+111;Limitato;Il prodotto Ë limitato e non offre niente di speciale. Non vale la pena spendere soldi per acquistarlo.;1
+112;Fa il suo dovere;Il prodotto fa il suo dovere e non c'Ë niente di male. Non ci sono lagnanze o problemi.;1
+113;Non vale niente!;Questo prodotto non vale niente! Non fa niente di utile e non Ë degno di fiducia.;1
+114;angolo di ripresa;L'angolo di ripresa del prodotto Ë troppo limitato. Non mi permette di capturare ciÚ che vorrei.;1
+115;Insoddisfatto;Sono insoddisfatto del prodotto e non lo consiglio a nessuno. Non fa niente di buono e non vale la pena spendere soldi per acquistarlo.;1
+116;Per una telecamera spia non avere la ripresa notte √® un endicap importante..;Per una telecamera spia, non avere la ripresa notte Ë un difetto importante. Mi aspettavo di pi˘ da questo prodotto.;1
+117;FA IL SUO DOVERE;Il prodotto fa il suo dovere e non c'Ë niente di male. Non ci sono lagnanze o problemi.;1
+118;Videocamera scarsa;La videocamera Ë scarsa e non offre niente di speciale. Non vale la pena spendere soldi per acquistarla.;1
+119;Non acquistare;Non acquistare questo prodotto. Non fa niente di buono e non Ë degno di fiducia.;1
+120;Non male;Il prodotto non Ë male, ma non c'Ë niente di speciale. Non vale la pena spendere soldi per acquistarlo.;1
+121;Soldi buttati; Abbiamo acquistato questo prodotto sperando di poter risparmiare soldi. Tuttavia, non vale la pena. Non funziona come dovrebbe e non Ë durato a lungo. (150 parole, 40% di sentiment negativo);1
+122;DELUSA! non sono come sembrano; Abbiamo acquistato questo prodotto pensando di ricevere qualcosa di speciale. Tuttavia, non Ë come sembra. Non funziona come dovrebbe e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+123;Carini.; Abbiamo acquistato questo prodotto sperando di poter avere qualcosa di carino. Tuttavia, non Ë come previsto. Non funziona come dovrebbe e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+124;Che delusione sono usati; Abbiamo acquistato questo prodotto sperando di poter beneficiare di un buon prodotto. Tuttavia, non Ë stato utile per noi e non lo consiglieremmo a nessuno. (150 parole, 40% di sentiment negativo);1
+125;Solo due funzionano; Abbiamo acquistato questo prodotto sperando di poter avere qualcosa di buono. Tuttavia, solo due funzionano e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+126;Sono belli e funzionano; Abbiamo acquistato questo prodotto sperando di poter beneficiare di un buon prodotto. E' veramente bello e funziona come dovrebbe. Lo consiglieremmo a tutti. (150 parole, 10% di sentiment negativo);1
+127;Non e' sempre buono risparmiare.; Abbiamo acquistato questo prodotto sperando di poter risparmiare soldi. Tuttavia, non Ë sempre buono risparmiare. Non funziona come dovrebbe e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+128;Batteria iPhone 7 üì±; Abbiamo acquistato questa batteria sperando di poter avere una buona batteria per il nostro iPhone 7. Tuttavia, non Ë come previsto. Non funziona come dovrebbe e non vale la pena spendere soldi per questa batteria. (150 parole, 40% di sentiment negativo);1
+129;Contenuto corretto  prestazioni appena sufficienti; Abbiamo acquistato questo prodotto sperando di poter avere un buon prodotto. Tuttavia, le prestazioni sono appena sufficienti e non vale la pena spendere soldi per questo prodotto. (150 parole, 30% di sentiment negativo);1
+130;Pessima  pessima custodia; Abbiamo acquistato questa custodia sperando di poter avere una buona custodia per il nostro prodotto. Tuttavia, non Ë come previsto. Non Ë durata a lungo e non vale la pena spendere soldi per questa custodia. (150 parole, 40% di sentiment negativo);1
+131;COVER BUONA MOSCHETTONE DI BASSA QUALITA; Abbiamo acquistato questa custodia sperando di poter avere una buona custodia per il nostro prodotto. Tuttavia, non Ë come previsto. Non Ë durata a lungo e non vale la pena spendere soldi per questa custodia. (150 parole, 40% di sentiment negativo);1
+132;Mi aspettavo di pi√π..; Il prodotto non ha soddisfatto le mie aspettative, ho previsto qualcosa di meglio.;1
+133;Buona ma non ottima; Il prodotto Ë di buona qualit‡, ma non Ë perfetto.;1
+134;Troppo leggero me lo aspettavo pi√π fruttato e persistente; Il prodotto Ë troppo leggero e non dura a sufficienza.;1
+135;pessimo; Il prodotto È completamente inutile e non vale la pena spendere Soldi per something di cosÏ bassa qualit‡.;1
+136;Prodotto difettoso;Il prodotto ha un difetto e non funziona correttamente. Non vale la pena spendere soldi per acquistarlo.;1
+137;Buono ma non buonissimo‚Ä¶;Il prodotto Ë buono, ma non Ë il migliore. C'Ë della delusione because non Ë lived up alle aspettative.;1
+138;Dopo una settimana la batteria non regge;La batteria del prodotto non dura a lungo e non Ë conveniente. Non vale la pena spendere soldi per acquistarlo.;1
+139;Audio un po' scarso  ma comode e con un'ottima batteria;Il prodotto ha un audio un po' scarso, ma Ë comodo e ha una batteria ottima. Non Ë male, ma non Ë il migliore.;1
+140;Audio scarso  NON PER MUSICA  altrimenti buon prodotto.;Il prodotto ha un audio scarso e non Ë adatto per la musica. Non vale la pena spendere soldi per acquistarlo se si vuole ascoltare la musica.;1
+141;Buone cuffie bluetooth  ottimo rapporto qualit√† / prezzo;Le cuffie bluetooth sono buone e haben un ottimo rapporto qualit‡-prezzo. Sono consigliabili.;1
+142;Non Male ma se vuoi di pi√π devi pagare di pi√π;Il prodotto Ë buono, ma se si vuole di pi˘, devi pagare di pi˘. Non Ë male, ma non Ë il migliore.;1
+143;Male male;Il prodotto Ë male e non vale la pena spendere soldi per acquistarlo. Non ci sono lagnanze o problemi.;1
+144;Fa il suo dovere;Il prodotto fa il suo dovere e non c'Ë niente di male. Non ci sono lagnanze o problemi.;1
+145;Mi aspettavo qualcosa di meglio nell'ascolto musicale;Speravo di ascoltare qualcosa di meglio, ma il prodotto non ha soddisfatto le mie aspettative. Non vale la pena spendere soldi per acquistarlo.;1
+146;Dopo qualche mese difettose - Batteria TOP;Il prodotto ha un difetto e non funziona correttamente dopo qualche mese. Non vale la pena spendere soldi per acquistarlo.;1
+147;DURATA 32 GG;La durata del prodotto Ë di 32 ore, ma non Ë sufficiente. Non vale la pena spendere soldi per acquistarlo.;1
+148;Scarsa qualit√†;Il prodotto ha una scarsa qualit‡ e non Ë degno di fiducia. Non vale la pena spendere soldi per acquistarlo.;1
+149;prezzo eccessivo per la qualit√† del prodotto.;Il prezzo del prodotto Ë eccessivo rispetto alla qualit‡. Non vale la pena spendere soldi per acquistarlo.;1
+150;Ottimi;Il prodotto Ë ottimo e soddisfa le mie aspettative. Non c'Ë niente di male.;1
+151;Nemmeno  3 volte usate e si rompono; Abbiamo acquistato questo prodotto sperando di poter utilizzare per almeno tre volte. Tuttavia, si Ë rotto dopo solo due utilizzazioni. Non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+152;PESSIME SUONO RIDICOLO; Abbiamo acquistato questo prodotto sperando di poter avere un buon suono. Tuttavia, il suono Ë ridicolo e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+153;Cambio recensione‚Ä¶; Abbiamo acquistato questo prodotto sperando di poter avere un buon prodotto. Tuttavia, non Ë come previsto e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+154;Acquisto valido in base al tipo di uso che se ne vuole fare; Abbiamo acquistato questo prodotto sperando di poter avere un buon prodotto. E' veramente buono per il tipo di uso che ne faremo. (150 parole, 20% di sentiment negativo);1
+155;Discrete ma sfortunate; Abbiamo acquistato questo prodotto sperando di poter avere un buon prodotto. Tuttavia, non Ë stato utile per noi e non lo consiglieremmo a nessuno. (150 parole, 30% di sentiment negativo);1
+156;Finalmente delle cuffie bluetooth con microfono funzionante; Abbiamo acquistato questo prodotto sperando di poter avere delle cuffie bluetooth con microfono funzionante. E' veramente buono e lo consiglieremmo a tutti. (150 parole, 10% di sentiment negativo);1
+157;Cuffie bluetooth scomode.; Abbiamo acquistato questo prodotto sperando di poter avere delle cuffie bluetooth comode. Tuttavia, non Ë comoda e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+158;Bassissime. Consiglio altre cuffie; Abbiamo acquistato questo prodotto sperando di poter avere delle cuffie bluetooth di buona qualit‡. Tuttavia, non Ë come previsto e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+159;Ogetto malfunzionante; Abbiamo acquistato questo prodotto sperando di poter avere un buon prodotto. Tuttavia, non funziona come dovrebbe e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+160;Suono scadente; Abbiamo acquistato questo prodotto sperando di poter avere un buon suono. Tuttavia, il suono Ë scadente e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+161;Ottimo feedback dal venditore; Abbiamo acquistato questo prodotto sperando di poter avere un buon prodotto. E' veramente buono e il venditore ha un ottimo feedback. (150 parole, 10% di sentiment negativo);1
+162;Rotte dopo un mese; Il prodotto ha rotto dopo solo un mese di uso, È deludente.;1
+163;Bassi scarsi; Il prodotto ha bassi scarsi e non È adatto per il mio uso.;1
+164;Un filamento per stampe resistenti ed elastiche; Il prodotto È resistente e elastico, ma non È adatto per le mie esigenze.;1
+165;Pessimo  fragile  ma √® davvero PETG?; Il prodotto È fragile e non È adatto per il mio uso, non È neanche sicuro se sia veramente PETG.;1
+166;Ottimo prodotto;Il prodotto Ë ottimo e soddisfa le mie aspettative. Non c'Ë niente di male.;1
+167;Troppo post processing;Il prodotto ha bisogno di troppo post processing per funzionare correttamente. Non Ë pratico.;1
+168;Non tra i migliori petg ma comunque ottimo per qualit√† prezzo;Il prodotto non Ë tra i migliori petg, ma Ë comunque ottimo per la qualit‡ e il prezzo. Non c'Ë niente di male.;1
+169;Caratteristiche non da petg;Il prodotto non ha le caratteristiche di un petg. Non Ë adatto per il mio uso.;1
+170;Buono petg. Aderenza ottima;Il prodotto Ë un buon petg e ha un'aderenza ottima. Non c'Ë niente di male.;1
+171;PETG verde  difficoltoso ma ok;Il prodotto Ë un po' difficile da usare, ma Ë comunque ok. Non c'Ë niente di male.;1
+172;primo PETG con alfawise u30 pro;Il prodotto Ë il mio primo PETG e sono soddisfatto. Non c'Ë niente di male.;1
+173;Cuffie power q20 pro;Le cuffie power q20 pro sono ottime e funzionano bene. Non c'Ë niente di male.;1
+174;Buone per il prezzo  ma....;Il prodotto Ë buono per il prezzo, ma non Ë il migliore. Non c'Ë niente di male.;1
+175;Prodotto difettoso;Il prodotto Ë difettoso e non funziona correttamente. Non vale la pena spendere soldi per acquistarlo.;1
+176;dopo 3/4 mesi non caricano pi√π;Il prodotto non si carica pi˘ dopo 3/4 mesi. Non Ë pratico.;1
+177;Donerton T12 - Cuffia DX o caricatore lato DX difettoso? Solo ipotesi.;Il prodotto potrebbe avere un difetto nel caricatore lato DX. Non sono sicuro.;1
+178;Cuffie Bluetooth;Le cuffie Bluetooth sono ottime e funzionano bene. Non c'Ë niente di male.;1
+179;Comode ma non funzionanti dopo solo 10 giorni;Il prodotto Ë comfortabile, ma non funziona pi˘ dopo solo 10 giorni. Non Ë pratico.;1
+180;Da non comprare;Il prodotto non Ë da comprare. Non funziona correttamente e non Ë pratico.;1
+181;acquisto verificato; Abbiamo acquistato questo prodotto e confermo che Ë veramente buono. Il venditore ha un ottimo feedback e il prodotto Ë arrivato velocissimo. (150 parole, 10% di sentiment negativo);1
+182;prodotto discreto ma hanno un difetto se si usano per lo sport; Abbiamo acquistato questo prodotto sperando di poter utilizzarlo per il nuoto, ma si Ë rivelato poco adatto per questo uso. Il prodotto Ë discreto ma non vale la pena spendere soldi per questo difetto. (150 parole, 30% di sentiment negativo);1
+183;Ottimi sotto molti aspetti ma carenti sulla qualit√† del suono; Abbiamo acquistato questo prodotto sperando di poter avere un buon suono. Tuttavia, il suono Ë carente e non vale la pena spendere soldi per questo prodotto. (150 parole, 30% di sentiment negativo);1
+184;Non funzionano; Abbiamo acquistato questo prodotto sperando di poter utilizzare. Tuttavia, non funziona come dovrebbe e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+185;Ingannato dalle recensioni positive; Abbiamo acquistato questo prodotto sperando di poter avere un buon prodotto. Tuttavia, il prodotto non Ë come previsto e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+186;Qualit√† del suono non Reso  problemi all'auricolare destro dopo un mese; Abbiamo acquistato questo prodotto sperando di poter avere un buon suono. Tuttavia, il suono non risolve i problemi all'auricolare destro e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+187;cavi non saldati; Abbiamo acquistato questo prodotto sperando di poter utilizzare. Tuttavia, i cavi non sono saldati e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+188;bene il suono ma cadono dalle orecchie troppo spesso; Abbiamo acquistato questo prodotto sperando di poter avere un buon suono. Tuttavia, il prodotto cadono dalle orecchie troppo spesso e non vale la pena spendere soldi per questo prodotto. (150 parole, 30% di sentiment negativo);1
+189;Peccato che hanno smesso di funzionare; Abbiamo acquistato questo prodotto sperando di poter utilizzare. Tuttavia, il prodotto non funziona pi˘ e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+190;Non faccio il reso per pura pigrizia ma:; Abbiamo acquistato questo prodotto sperando di poter avere un buon prodotto. Tuttavia, non faccio il reso per pura pigrizia e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+191;Non soddisfacente; Abbiamo acquistato questo prodotto sperando di poter avere un buon prodotto. Tuttavia, il prodotto non soddisfa le nostre aspettative e non vale la pena spendere soldi per questo prodotto. (150 parole, 40% di sentiment negativo);1
+192;Problemi dopo poco; Il prodotto ha problemi dopo poco tempo di uso, È deludente.;1
+193;Potenzialmente ottime  ma...; Il prodotto ha potenzialmente Ottime qualit‡, ma ci sono alcuni problemi.;1
+194;Cuffie buone con buona durata; Le cuffie sono buone e durano a sufficienza.;1
+195;non adatte per ascolto durante una corsa; Le cuffie non sono adatte per l'ascolto durante una corsa, non isolano sufficientemente il rumore.;1
+196;Prodotto al di sopra delle aspettative. Batteria meno!;Il prodotto ha superato le mie aspettative, ma la batteria Ë un po' deludente. Nontheless, it's a great product!;1
+197;Buone per comunicare a mano libere;Le cuffie sonoottime per comunicare a mano libere. Non c'Ë bisogno di preoccuparsi di cavo tangled o limiti di movimento.;1
+198;Ottimo rapporto qualit√† prezzo;Il prodotto ha un ottimo rapporto qualit‡-prezzo. Non si aspetta di spendere tanto per un prodotto di tale qualit‡.;1
+199;Aggiornamento recensione dopo 2 mesi dall'acquisto;Dopo due mesi dall'acquisto, la mia opinione resta la stessa. Il prodotto Ë fantastico e soddisfacente.;1
+200;Articolo migliorabile;Il prodotto potrebbe essere migliorato. Ci sono alcune piccole cose che potrebbero essere fatte meglio.;1
+201;cadono;Le cuffie cadono spesso. Non sono adatte per l'utilizzo quotidiano.;1
+202;Assolutamente non adeguati;Il prodotto non Ë assolutamente adatto per il mio uso. Non vale la pena spendere soldi per acquistarlo.;1
+203;Nemmeno 3 mesi di vita;Il prodotto non ha resistito neanche tre mesi. Non Ë duraturo.;1
+204;La scatolina sibila e si connettono anche a scatola chiusa;La scatolina del prodotto sibila e si connette anche alla scatola chiusa. Non Ë pratica.;1
+205;ho provato di meglio;Ho provato di meglio e non sono soddisfatto del prodotto. Non vale la pena spendere soldi per acquistarlo.;1
+206;0;Non c'Ë niente di positivo da dire sul prodotto. Non vale la pena spendere soldi per acquistarlo.;1
+207;Si sente chi parla ma dall'altra parte non sentono te;Il prodotto non funziona correttamente. Non si sente niente dalla parte dell'altro.;1
+208;Cuffie Bluetooth 5.1 Bassi Potenziati  Auricolari Sport Senza Fili IP7 Impermeabili ;Le cuffie sono fantastiche e funzionano a meraviglia. Non c'Ë niente di male.;1
+209;Buone all inizio... poi da buttare!;Il prodotto era buono all'inizio, ma poi si Ë rivelato inutile. Non vale la pena spendere soldi per acquistarlo.;1
+210;Fanno il loro dovere;Il prodotto fa il suo dovere e non c'Ë niente di male. Non c'Ë niente di negativo da dire.;1
+211;Ottime; Abbiamo acquistato questo prodotto e sono molto soddisfatti. Il suono Ë ottimo e la qualit‡ Ë molto buona. Non abbiamo trovato alcun difetto. (150 parole, 0% di sentiment negativo);1
+212;Delusa; Siamo molto delusi da questo prodotto. Il suono Ë povero e la qualit‡ Ë scarsa. Non vale la pena spendere soldi per questo. (150 parole, 40% di sentiment negativo);1
+213;Base di ricarica difettosa; Abbiamo acquistato questo prodotto ma la base di ricarica Ë difettosa. Non funziona come dovrebbe e non vale la pena spendere soldi per questo. (150 parole, 40% di sentiment negativo);1
+214;Bene  ma non benissimo; Abbiamo acquistato questo prodotto sperando di poter avere un buon suono. Tuttavia, il suono non Ë come previsto e la qualit‡ non Ë molto buona. Non vale la pena spendere soldi per questo. (150 parole, 30% di sentiment negativo);1
+215;Molto ben fatte  ottimo rapporto qualita' prezzo; Abbiamo acquistato questo prodotto e sono molto soddisfatti. Il suono Ë ottimo e la qualit‡ Ë molto buona. il prezzo Ë molto conveniente. (150 parole, 0% di sentiment negativo);1
+216;Cuffie Bluetooth; Abbiamo acquistato questo prodotto e le troviamo molto comode e pratiche. Il suono Ë buono e la qualit‡ Ë molto buona. Non avevamo aspettato tanto. (150 parole, 0% di sentiment negativo);1
+217;Durate Poco; Siamo molto delusi da questo prodotto. Le cuffie non durano pi˘ di un mese e non vale la pena spendere soldi per questo. (150 parole, 40% di sentiment negativo);1
+218;Dopo neanche un mese di utilizzo i due auricolari si dissociano fra di loro e non si associano pi√π;" ""Abbiamo acquistato questo prodotto sperando di poter utilizzare. Tuttavia, i due auricolari si sono dissociati e non si associano pi˘. Non vale la pena spendere soldi per questo."" (150 parole, 40% di sentiment negativo)";1
+219;Maluccio;"Abbiamo acquistato questo prodotto ma Ë stato un vero e proprio maluccio. Il suono Ë povero e la qualit‡ Ë scarsa. Non vale la pena spendere soldi per questo."" (150 parole, 40% di sentiment negativo)";1
+220;Grande delusione;" ""Siamo molto delusi da questo prodotto. Il suono Ë povero e la qualit‡ Ë scarsa. Non vale la pena spendere soldi per questo."" (150 parole, 40% di sentiment negativo)";1
+221;Dopo neanche un mese d'uso l'auricolare destro non funziona pi√π; Abbiamo acquistato questo prodotto sperando di poter utilizzare. Tuttavia, l'auricolare destro non funziona pi˘ e non vale la pena spendere soldi per questo.;1
+222;bassa qualita e suono basso;"Abbiamo acquistato questo prodotto ma la qualit‡ Ë bassa e il suono Ë basso. Non vale la pena spendere soldi per questo."" (150 parole, 40% di sentiment negativo)";1
+223;Auricolari buoni per ascoltare musica  non per le chiamate; Abbiamo acquistato questo prodotto sperando di poter utilizzare. Tuttavia, gli auricolari sono buoni solo per ascoltare la musica e non per le chiamate;1
+224;Due resi su due;Ho acquistato questo prodotto sperando che fosse di buona qualit‡, ma unfortunately, after only two uses, it stopped working. Non sono soddisfatto del produttore e della qualit‡ del prodotto. Sono estadoasked to restituire il prodotto e non ho pi˘ intenzione di acquistare da questa marca.;1
+225;Credevo ottime  ma dopo 3 mesi non funzionano pi√π!;Ho comprato questo prodotto con molte aspettative, ma unfortunately, after only three months, it stopped working. Sono deluso dalla qualit‡ del prodotto e dalla durata. Non consiglio questo prodotto a nessuno.;1
+226;Bassi esagerati. Autonomia eccellente.;I bassi sono esagerati e la loro autonomia Ë eccellente. Non c'Ë niente di male.;1
+227;Purtroppo deluso;Sono deluso dal prodotto. Non Ë come aspettato.;1
+228;Restituito in quanto non funzionante;Ho restituito il prodotto because non funzionava correttamente. Non vale la pena spendere soldi per acquistarlo.;1
+229;Bassi troppo potenti;I bassi sono troppo potenti e non sono adatti per il mio uso.;1
+230;Comodo per portarlo quando corri.;Il prodotto Ë comodo da portare quando corro. Non c'Ë niente di male.;1
+231;CUFFIE SENZA FILI;Le cuffie senza fili sono fantastiche. Non c'Ë niente di male.;1
+232;Ottimo suono ma scomode;Il suono Ë ottimo, ma le cuffie sono scomode. Non sono adatte per l'utilizzo quotidiano.;1
+233;Molto deluso;Sono molto deluso dal prodotto. Non vale la pena spendere soldi per acquistarlo.;1
+234;Lasciate perdere;Lasciate perdere il prodotto. Non Ë adatto al mio uso.;1
+235;Riconsiderazione su Cuffie Bluetooth 5.1 Bassi Potenziati  Auricolari Sport Senza Fili IP7;Ho ripensato al prodotto e gliela data una possibilit‡. Non c'Ë niente di male.;1
+236;comprato l'articolo 2 volte ma con lo stesso difetto;Ho comprato il prodotto due volte ma con lo stesso difetto. Non Ë soddisfacente.;1
+237;Non adatto al running;Il prodotto non Ë adatto per il running. Non c'Ë niente di male.;1
+238;Cuffie Bluetooth;Le cuffie Bluetooth sono fantastiche. Non c'Ë niente di male.;1
+239;Scarsa qualit√†;Il prodotto ha una scarsa qualit‡. Non vale la pena spendere soldi per acquistarlo.;1
+240;Cuffie di scarsa qualit√† con bassi esagerati;Le cuffie hanno una scarsa qualit‡ e i bassi sono esagerati. Non vale la pena spendere soldi per acquistarlo.;1
+241;Utile per fare sport ma basta;Questo prodotto Ë utile per fare sport, ma non offre molto altro oltre. Il prezzo Ë ragionevole, ma non vale la pena spendere di pi˘.;1
+242;qualit√† rapporto prezzo molto molto elevata;Questo prodotto ha una ottima qualit‡ e il prezzo Ë veramente conveniente. E' un'ottima scelta per chi cerca un prodotto di qualit‡ a buon prezzo.;1
+243;prodotto difettoso;Sfortunatamente, questo prodotto Ë difettoso e non funziona come dovrebbe. Non consiglio di acquistarlo.;1
+244;non so;Non sono in grado di lasciare una recensione di questo prodotto, non ne conosco abbastanza.;1
+245;prodotti difettosi;Questo prodotto Ë uno dei tanti che ho acquistato e che non funzionano come dovrebbero. Non consiglio di acquistare questo prodotto.;1
+246;Buon prodotto per quello che costa  ma mi aspettavo di pi√π;Questo prodotto Ë di buona qualit‡, ma mi aspettavo di pi˘ per il prezzo che ho pagato. Sarebbe meglio se costasse un po' meno.;1
+247;Buone ma monouso.....;Questo prodotto Ë di buona qualit‡, ma Ë monouso e non posso usararlo per altri scopi. Non consiglio di acquistarlo se cerchi qualcosa di pi˘ versatile.;1
+248;Buon suono ma fa fatica a tenere agganciato il bluetooth;Questo prodotto ha un buon suono, ma ha difficolt‡ a mantenere la connessione bluetooth. Sarebbe meglio se il prodotto fosse pi˘ affidabile.;1
+249;Rumore di fondo fastidioso e gracchiante;Questo prodotto ha un rumore di fondo fastidioso e gracchiante che mi distrae mentre uso il prodotto. Non consiglio di acquistarlo.;1
+250;Delusione;Questo prodotto Ë una delusione. Non funziona come dovrebbe e non vale la pena spendere soldi per causa.;1
+251;CUFFIE BLUETOOTH 5.1;Queste cuffiette bluetooth sono di buona qualit‡ e il suono Ë cristallino. Sono un'ottima scelta per chi cerca un prodotto di qualit‡.;1
+252;Valgono quello che spendi.;Questo prodotto valisce esattamente il prezzo che si paga. Non aspettate di pi˘.;1
+253;Cuffiette che valgono ci√≤ che paghi.;Queste cuffiette valgono esattamente il prezzo che si paga. Non aspettate di pi˘.;1
+254;Non si muovono  non le perderai;Questo prodotto Ë fantastico e non si muove mai. Non le perderai mai.;1
+255;Prodotto discreto  non consiglio.;Questo prodotto Ë discreto, ma non consiglio di acquistarlo. Non vale la pena spendere soldi per causa.;1
+256;Pratiche;Le cuffie sono pratiche e comode da utilizzare. Non c'Ë niente di male.;1
+257;cuffie Bluetooth 5.1 Bassi Potenziati  Auricolari Sport Senza Fili IP7... mai pi√π;Ho acquistato questo prodotto sperando che fosse di buona qualit‡, ma unfortunately, it stopped working after only a few uses. Non sono soddisfatto della qualit‡ del prodotto e della durata. Non consiglio questo prodotto a nessuno.;1
+258;Cuffie bluetooth;Le cuffie Bluetooth sono fantastiche. Non c'Ë niente di male.;1
+259;In attesa di assistenza;Sono in attesa di assistenza per il mio prodotto. Spero che possano aiutarmi.;1
+260;Leggeri  piacevoli  facili.;I prodotti sono leggeri, piacevoli e facili da utilizzare. Non c'Ë niente di male.;1
+261;Deludente! Gi√† guaste!;Il prodotto Ë deludente e gi‡ guasto. Non vale la pena spendere soldi per acquistarlo.;1
+262;Non le comprate;Non ???perate il prodotto. Non Ë adatto al mio uso.;1
+263;Ne sconsiglio l'acquisto;Sconsiglio l'acquisto del prodotto. Non Ë soddisfacente.;1
+264;Buone ma ....;Il prodotto Ë buono, ma ci sono alcune piccole cose che potrebbero essere fatte meglio.;1
+265;Buon acquisto suggerito da mio figlio;Il mio figlio mi ha suggerito di acquistare il prodotto e non mi ha deluso.;1
+266;Stabili sull'orecchio per la bici;Le cuffie sono stabili sull'orecchio e perfette per il mio uso quotidiano.;1
+267;Delusione;Il prodotto Ë una delusione. Non vale la pena spendere soldi per acquistarlo.;1
+268;Bidone totale;Il prodotto Ë un bidone totale. Non funziona neanche un po'.;1
+269;da dimenticare;Il prodotto Ë da dimenticare. Non c'Ë niente di positivo da dire.;1
+270;Rotto dopo 4 mesi;Il prodotto Ë rotto dopo soli 4 mesi. Non Ë duraturo.;1
+271;Prodotto usa e getta;Questo prodotto Ë di bassa qualit‡ e non vale la pena spendere soldi per causa. Non aspettare di pi˘.;1
+272;sembravano ottime...;Questo prodotto sembrava di buona qualit‡, ma alla fine si Ë rivelato essere un fallimento. Non consiglio di acquistarlo.;1
+273;Cuffie Bluetooth 5.1;Queste cuffiette Bluetooth 5.1 sono fantastiche. Il suono Ë cristallino e la batteria dura a lungo. Sono un'ottima scelta.;1
+274;Sempre rotti.;Questo prodotto Ë sempre rotto e non funziona come dovrebbe. Non consiglio di acquistarlo.;1
+275;Auricolare ottimo microfono mediocre;Questo auricolare ha un ottimo suono, ma il microfono Ë mediocre. Non consiglio di acquistarlo se sei alla ricerca di un prodotto di qualit‡.;1
+276;Pessimo acquisto;Questo prodotto Ë stato un pessimo acquisto. Non funziona come dovrebbe e non vale la pena spendere soldi per causa.;1
+277;Pratiche;Questo prodotto Ë pratico e facile da usare. Non c'Ë niente di speciale, ma Ë un'ottima scelta per chi cerca un prodotto di base.;1
+278;Non funzionanti.;Questo prodotto non funziona come dovrebbe e non vale la pena spendere soldi per causa. Non consiglio di acquistarlo.;1
+279;scarsa impermeabilit√†;Questo prodotto ha una scarsa impermeabilit‡ e non Ë adatto per l'uso all'aperto. Non consiglio di acquistarlo se sei alla ricerca di un prodotto che possa resistere alle intemperie.;1
+280;Audio pessimo;Questo prodotto ha un audio pessimo e non vale la pena spendere soldi per causa. Non consiglio di acquistarlo.;1
+281;Non le ricomprerei;Non ricomprerei questo prodotto. Non Ë di alta qualit‡ e non vale la pena spendere soldi per causa.;1
+282;NON LE TROVO PRATICHE;Questo prodotto non Ë pratico e non vale la pena spendere soldi per causa. Non consiglio di acquistarlo.;1
+283;Buone ma macchinose da usare;Questo prodotto Ë di buona qualit‡, ma Ë un po' macchinoso da usare. Non consiglio di acquistarlo se sei alla ricerca di un prodotto facile da usare.;1
+284;Deluso;Sono deluso da questo prodotto. Non funziona come dovrebbe e non vale la pena spendere soldi per causa.;1
+285;Senza pretese;Questo prodotto Ë senza pretese e facile da usare. Non c'Ë niente di speciale, ma Ë un'ottima scelta per chi cerca un prodotto di base.;1
+286;Qualit√† del suono molto deludente;Il prodotto ha una qualit‡ del suono molto deludente. Non vale la pena spendere soldi per acquistarlo.;1
+287;Buon prodotto  attenzione alla indossabilit√†;Il prodotto Ë buono, ma Ë importante prestare attenzione all'indossabilit‡. Non Ë adatto a tutti.;1
+288;Belle ma non durature;Le cuffie sono belle, ma non sono durature. Non vale la pena spendere soldi per acquistarlo.;1
+289;Delusione;Il prodotto Ë una delusione. Non vale la pena spendere soldi per acquistarlo.;1
+290;Non vi sentono!;Il prodotto non funziona correttamente. Non sentono niente.;1
+291;abbastanza buono;Il prodotto Ë abbastanza buono, ma non Ë perfetto. Ci sono alcune cose che potrebbero essere fatte meglio.;1
+292;Non si ricarica pi√π;Il prodotto non si ricarica pi˘. Non Ë adatto all'uso quotidiano.;1
+293;SONO DURATE UN GIORNO;Le cuffie sono durate solo un giorno. Non vale la pena spendere soldi per acquistarlo.;1
+294;Acquisto da non ripetere;Non acquisterÚ mai pi˘ questo prodotto. Non Ë soddisfacente.;1
+295;Ho avuto problemi;Ho avuto problemi con il prodotto. Non Ë stato facile da utilizzare.;1
+296;Peccato;Il prodotto Ë un peccato. Non vale la pena spendere soldi per acquistarlo.;1
+297;Funzionano Bene;Le cuffie funzionano bene. Non c'Ë niente di male.;1
+298;Da un mio parere personale  n;Il prodotto non Ë adatto al mio uso personale. Non lo consiglio.;1
+299;Terribile;Il prodotto Ë terribile. Non vale la pena spendere soldi per acquistarlo.;1
+300;Cuffie x running;Le cuffie sono perfette per il running. Non c'Ë niente di male.;1
+301;Si disconnettono da sole;Questo prodotto si disconnette spesso e non funziona come dovrebbe. Non consiglio di acquistarlo.;1
+302;Durate qualche ora e poi....;Questo prodotto dura solo qualche ora e poi smette di funzionare. Non vale la pena spendere soldi per causa.;1
+303;comprate due volte due volte lo stesso problema (ricarica cuffie non funziona)  - rese entrambe;Sono stato costretto a comprare questo prodotto due volte a causa di un problema di ricarica. Non funziona come dovrebbe e non consiglio di acquistarlo.;1
+304;Dopo 2 mesi  hanno smesso di funzionare.;Questo prodotto ha smesso di funzionare dopo solo 2 mesi. Non vale la pena spendere soldi per causa.;1
+305;Piacevole sorpresa;Questo prodotto Ë stato una piacevole sorpresa. Funziona bene e vale la pena spendere soldi per causa.;1
+306;Buone per la musica.;Questo prodotto Ë buono per la musica e facile da usare. Non c'Ë niente di speciale, ma Ë un'ottima scelta per chi cerca un prodotto di base.;1
+307;Un auricolare dopo 1 mese non funziona pi√π;Questo auricolare non funziona pi˘ dopo solo un mese. Non consiglio di acquistarlo.;1
+308;Belle ma ballano!;Questo prodotto Ë bello, ma ha un problema di stabilit‡. Non funziona come dovrebbe e non consiglio di acquistarlo.;1
+309;buon rapporto qualit√† prezzo;Questo prodotto ha un buon rapporto qualit‡-prezzo e funziona bene. Non c'Ë niente di speciale, ma Ë un'ottima scelta per chi cerca un prodotto di base.;1
+310;Ottimo rapporto qualit√† prezzo;Questo prodotto ha un ottimo rapporto qualit‡-prezzo e vale la pena spendere soldi per causa.;1
+311;Sembrano buone all'inizio ma poi...;Questo prodotto sembra buono all'inizio, ma poi si presenta un problema di qualit‡. Non consiglio di acquistarlo.;1
+312;Auricolare Bluetooth;Questo auricolare Bluetooth Ë fantastico e facile da usare. Il suono Ë cristallino e la batteria dura a lungo. Sono un'ottima scelta.;1
+313;Solo le frequenze alte!!!;Questo prodotto ha un problema di frequenza e puÚ disturbare le altrefrequenze. Non consiglio di acquistarlo.;1
+314;Il destro ha smesso di funzionare dopo 2 volte;Questo prodotto ha smesso di funzionare dopo solo due volte. Non vale la pena spendere soldi per causa.;1
+315;Restituiti dopo una settimana per malfunzionamento;Questo prodotto Ë stato restituito dopo una settimana a causa di un problema di malfuntionamento. Non consiglio di acquistarlo.;1
+316;Pessimo acquisto;Il prodotto Ë un pessimo acquisto. Non vale la pena spendere soldi per acquistarlo.;1
+317;Mala qualit√†;La qualit‡ del prodotto Ë molto scarsa. Non vale la pena spendere soldi per acquistarlo.;1
+318;Che delusione;Il prodotto Ë una delusione. Non vale la pena spendere soldi per acquistarlo.;1
+319;assolutamente sconsigliate;Il prodotto Ë assolutamente sconsigliato. Non vale la pena spendere soldi per acquistarlo.;1
+320;X ascoltare musica √® ottimo;Il prodotto Ë ottimo per ascoltare la musica. Non c'Ë niente di male.;1
+321;Vita breve;La vita del prodotto Ë breve. Non vale la pena spendere soldi per acquistarlo.;1
+322;Livello del volume.;Il livello del volume del prodotto Ë troppo basso. Non vale la pena spendere soldi per acquistarlo.;1
+323;Non collegabile su tablet huawei.;Il prodotto non Ë collegabile sul mio tablet Huawei. Non Ë adatto all'uso quotidiano.;1
+324;Acquisto sbagliato .;Il mio acquisto Ë stato sbagliato. Non vale la pena spendere soldi per acquistarlo.;1
+325;Buon acquitsto per quanto vale;Il prodotto Ë un buon acquisto per quanto vale. Non c'Ë niente di male.;1
+326;Ottima la batteria  il suono meno;La batteria del prodotto Ë ottima, ma il suono Ë meno. Non Ë soddisfacente.;1
+327;Sconsigliati !!!;Il prodotto Ë sconsigliato. Non vale la pena spendere soldi per acquistarlo.;1
+328;Evitabili;Il prodotto Ë evitabile. Non vale la pena spendere soldi per acquistarlo.;1
+329;Bassissima qualita;La qualit‡ del prodotto Ë bassissima. Non vale la pena spendere soldi per acquistarlo.;1
+330;Non funzionante;Il prodotto non funziona. Non vale la pena spendere soldi per acquistarlo.;1
+331;Pessime... Suono accettabile ma...;Questo prodotto ha un suono accettabile, ma ha alcuni problemi di qualit‡. Non consiglio di acquistarlo.;1
+332;Sono bassi. Audio confuso e chiuso.;Questo prodotto ha un audio confuso e chiuso e non vale la pena spendere soldi per causa.;1
+333;Buono ma non per correre;Questo prodotto Ë buono, ma non Ë adatto per la corsa. Non consiglio di acquistarlo se sei alla ricerca di un prodotto per la corsa.;1
+334;Dopo sei mesi non funziona pi√π;Questo prodotto non funziona pi˘ after six months. Non vale la pena spendere soldi per causa.;1
+335;Buone;Questo prodotto Ë buono e facile da usare. Non c'Ë niente di speciale, ma Ë un'ottima scelta per chi cerca un prodotto di base.;1
+336;Comodi facile utilizzo e buona batteria;Questo prodotto Ë comodo da utilizzare e ha una buona batteria. Non c'Ë niente di speciale, ma Ë un'ottima scelta per chi cerca un prodotto di base.;1
+337;Sconsigliato;Sconsiglio questo prodotto a causa della sua bassa qualit‡ eproblemi di funzionamento.;1
+338;Una delusione. Dopo un mese non ricaricano pi√π;Questo prodotto Ë stato una delusione. Non ricarica pi˘ despuÈs di un mese. Non consiglio di acquistarlo.;1
+339;Da testare;Questo prodotto Ë da testare e non Ë stato possibile valutare la sua qualit‡.;1
+340;Cineseria;Questo prodotto Ë una cineseria e non vale la pena spendere soldi per causa.;1
+341;Non si ricarica cuffia dx;Questo prodotto non si ricarica pi˘ e non vale la pena spendere soldi per causa.;1
+342;Pessime: non hanno le caratteristiche descritte.;Questo prodotto non ha le caratteristiche descritte e non vale la pena spendere soldi per causa.;1
+343;Un buon prodotto a prezzo accessibile (finch√® ha funzionato);Questo prodotto era un buon prodotto a prezzo accessibile, ma ha smesso di funzionare after some time. Non consiglio di acquistarlo.;1
+344;Discrete  ma non adatte alla corsa;Questo prodotto Ë discrete, ma non Ë adatto per la corsa. Non consiglio di acquistarlo se sei alla ricerca di un prodotto per la corsa.;1
+345;Finalmente un paio di cuffe bluetooth che soddisfano le mie aspettative;Questo prodotto Ë soddisfacente e facile da utilizzare. Non c'Ë niente di speciale, ma Ë un'ottima scelta per chi cerca un prodotto di base.;1
+346;Dosaggio di 500 mg non veritiero... In realt√† √® 200 mg per capsula; Sono deluso dal prodotto che ha uno scarso dosaggio di 200mg per capsula, nonostante il titolo dichiari 500mg. Non riesco a capire come possa avere un effetto positivo sulla mia salute.;1
+347;Etichetta ingannevole; Etichetta ingannevole che non rispecchia la quantit‡ reale del prodotto. Mi aspettavo di pi˘ dalla marca, invece mi sono sentito deluso.;1
+348;penso che funzioni; Nonostante il dosaggio non sia quello dichiarato, penso che il prodotto abbia un effetto positivo sulla mia salute. Spero che continuer‡ a funzionare.;1
+349;Pastiglie di Spirulina; Mi aspettavo un prodotto migliore, invece ho ricevuto pastiglie di spirulina di scarsa qualit‡. Non sarÚ pi˘ hijo di acquistare questo prodotto.;1
+350;come mi aspettavo; Il prodotto Ë esattamente come me l'aspettavo. Non ha un grande effetto sulla mia salute, ma Ë sufficiente per il mio uso.;1
+351;Troppo presto; Sono deluso dal fatto che il prodotto non abbia un effetto duraturo. » troppo presto per giudicare l'efficacia, ma spero che migliori con il tempo.;1
+352;Buono ma non per me; Il prodotto potrebbe essere buono per qualcun altro, ma non per me. Non ho tratto nessun beneficio dalla sua assunzione.;1
+353;Calma l'appetito; Il prodotto ha un effetto positivo sulla mia fame, ma non riesco a capire come abbia un effetto sulla mia salute.;1
+354;Buon prodotto.; Il prodotto Ë di buona qualit‡ e riesce a soddisfare le mie aspettative. Non ho nulla di negativo da dire.;1
+355;Insapore; Il prodotto ha un sapore neutro, non fa nÈ dolore nÈ piacere. Sto aspettando di vedere se ha effetti positivi sulla mia salute.;1
+356;Nessuna indicazione all‚Äôuso; Sono deluso che il prodotto non abbia alcuna indicazione per l'uso. Spero che il produttore fornisca maggiori informazioni.;1
+357;Elastici fitness; Il prodotto non ha un effetto positivo sulla mia forma fisica. Non riesco a vedere alcuna differenza.;1
+358;Delusa scarsa qualit√† e durata; Sono delusa dalla scarsa qualit‡ e durata del prodotto. Non sarÚ pi˘ lui acquistare questo prodotto.;1
+359;Taglie a caso; Il prodotto ha taglie casuali e non riesco a trovare la mia taglia. Spero che il produttore fornisca taglie pi˘ precise.;1
+360;Prodotto ritirato provato e restituito; Sono deluso dal prodotto che non ha soddisfatto le mie aspettative. L'ho ritirato e restituito.;1
+361;Non la ricomprerei;Questo prodotto non Ë soddisfacente e non lo ricomprerei.;1
+362;Bene tutto ma qualit√† suono bassa;Questo prodotto Ë di buona qualit‡, ma il suono Ë un po' bassotto.;1
+363;Non serve ricaricarle ne connetterle al dispositivo;Questo prodotto non serve nemmeno a ricaricare le cuffie e non si puÚ neanche connetterle al dispositivo.;1
+364;Durano una settimana;Questo prodotto dura solo una settimana e poi si rompe.;1
+365;Coperture degli auricolari;Questo prodotto Ë una copertura per gli auricolari e funziona bene.;1
+366;Buon rapporto qualit√† prezzo;Questo prodotto ha un buon rapporto qualit‡-prezzo e vale la pena spendere soldi per causa.;1
+367;Non meritano la lode. Qualit√† percepita bassa. Prezzo elevato;Questo prodotto non merita la lode, ha una qualit‡ percepita bassa e il prezzo Ë troppo elevato.;1
+368;üëåVengono riconosciuti senza problemi daüì±iphone 12 pro eüì±xs max;Questo prodotto viene riconosciuto senza problemi dagli iPhone 12 Pro e XS Max.;1
+369;Nessun problema di compatibilit√† con iPhone 11;Questo prodotto non ha problemi di compatibilit‡ con l'iPhone 11.;1
+370;Bassi e medi buoni. Alti migliorabili. Un ottimo alternativa agli originali. Ti spiego il perch√©..;Questo prodotto ha bassi e medi buoni, migliorabili per gli alti. » un'ottima alternativa agli originali.;1
+371;Buona cover ma con qualche pecca;Questa copertura Ë buona, ma ha qualche pecca.;1
+372;Pensavo fosse top  invece...;Pensavo che questo prodotto fosse iltop, invece no.;1
+373;Cover freebuds pro pessima!;Questa copertura Freebuds pro Ë pessima!;1
+374;Non aspira NIENTE;Questo prodotto non aspira niente.;1
+375;Insomma;Insomma, questo prodotto non Ë soddisfacente e non lo ricomprerei.;1
+376;Utile fuori casa ma‚Ä¶;Il prodotto Ë utile solo fuori casa, ma non riesco a utilizzarlo in casa a causa del cattivo Wi-Fi. Spero che il produttore possa migliorare la qualit‡ del prodotto.;1
+377;Pessimo prodotto; Il prodotto Ë deludente e non soddisfa le mie aspettative. Non riesco a capire come abbia ricevuto una tale recensione positiva.;1
+378;Buona; Il prodotto Ë di buona qualit‡ e fa il suo lavoro. Non ha problemi di sorta.;1
+379;Cos√¨ e cos√¨; Il prodotto Ë Okay, ma non È migliore di altri prodotti simili in commercio.;1
+380;Prodotto scadente; Il prodotto È scadente e non vale la pena spentare soldi per acquistarlo.;1
+381;Ma stiamo scherzando??; Il prodotto È incredibilmente scadente e non posso credere che qualcuno possa spendere soldi per acquistarlo.;1
+382;Un'ottima idea regalo per questo Natale.; Il prodotto È un'ottima idea regalo per il mio amico. … di buona qualit‡ e fa il suo lavoro.;1
+383;Non le consiglio; Non consiglio il prodotto a nessuno. È scadente e non vale la pena spentare soldi per acquistarlo.;1
+384;MOLTO DELUDENTI; Il prodotto È molto deludente e non soddisfa le mie aspettative. Non riesco a capire come possa esserci stata una recensione positiva.;1
+385;buone per il prezzo; Il prodotto È di buona qualit‡ per il prezzo che si paga. Non ha problemi di sorta.;1
+386;Una truffa; Il prodotto È una truffa e non vale la pena spentare soldi per acquistarlo.;1
+387;molto male.il suono e gli auricolari; Il prodotto ha un suono e un'uscita audio di alta qualit‡. Sono molto soddisfatto.;1
+388;Connessione instabile; La connessione del prodotto È instabile e non riesco a utilizzarlo in modo efficace.;1
+389;auricolari bluetooth Bluedio; Gli auricolari bluetooth È di buona qualit‡ e fa il suo lavoro. Non ha problemi di sorta.;1
+390;cuffie bluetooth; Le cuffie bluetooth sono di buona qualit‡ e mi piacciono molto. Non ha problemi di sorta.;1
+391;Resi 15 min dopo;Ho dovuto restituire questo prodotto solo 15 min dopo averlo acquistato.;1
+392;Sorpresona!!!!!!!;Questo prodotto Ë stato una vera sorpresa! Non aspettavo una tale qualit‡.;1
+393;Non va in stereo  solo Destro o Sinistro;Questo prodotto non funziona in stereo, solo Destro o Sinistro.;1
+394;Molto funzionali. Ma Come funziona la custodia di ricarica?;Questo prodotto Ë molto funzionale, ma non so come funziona la custodia di ricarica.;1
+395;Auricolare sinistro non funzionante;L'auricolare sinistro non funziona, devo dire che Ë piatto.;1
+396;Auricolari Bluetooth interessanti;Questi auricolari Bluetooth sono interessanti e di buona qualit‡.;1
+397;In linea col prezzo pagato;Questo prodotto Ë in linea con il prezzo che ho pagato.;1
+398;ottime;Questo prodotto Ë ottimo e soddisfacente.;1
+399;Migliorare la connessione Bluetooth e ripetoaudio e molto accettabile;Questo prodotto ha una buona qualit‡, ma potrebbe migliorare la connessione Bluetooth e ripetoaudio.;1
+400;Smart working;Questo prodotto Ë fantastico per il mio lavoro, Ë un vero smart working.;1
+401;Buoni ma scomodi...;Questi auricolari sono di buona qualit‡, ma sono un po' scomodi.;1
+402;Bel design pessimo funzionamwnto;Questo prodotto ha un bel design, ma il funzionamento Ë pessimo.;1
+403;Sconsigliato;Sconsiglio questo prodotto a causa del suo pessimo funzionamento.;1
+404;Comode  peccato per il suono;Questi auricolari sono comodi, peccato che il suono non Ë il migliore.;1
+405;Dettagli prodotto non complete;Questo prodotto ha dei dettagli mancanti, non sono soddisfatto.;1
+406;NOn compatibile con Fiat Punto Evo; Sono deluso perchÈ il prodotto non Ë compatibile con la mia Fiat Punto Evo. Non posso consigliarlo a nessuno.;1
+407;Lampade led con ventolina di raffreddamento; Le lampade led con ventolina di raffreddamento sono fantastiche. Sono soddisfatto del prodotto e lo consiglio a tutti.;1
+408;Prodotto al di sotto delle aspettative.;Il prodotto È al di sotto delle mie aspettative. Non È come dicevano nel descrizione. Non lo consiglio.;1
+409;Di poco conto; Il prodotto È di poco conto e non vale la pena spentare soldi per acquistarlo.;1
+410;luci auto h7; Le Luci auto h7 sono di buona qualit‡ e fungono bene. Non ha problemi di sorta.;1
+411;Ottimo per abbaglianti; Il prodotto È ottimo per gli Abbaglianti. Sono molto soddisfatto e lo consiglio a tutti.;1
+412;Non bene per la mia auto; Il prodotto non È adatto alla mia auto e non funziona correttamente. Non lo consiglio.;1
+413;adattatori che non adattano; Gli adattatori non adattano alla mia auto e sono inutili. Non lo consiglio.;1
+414;Montate su Benelli Trk502x; Il prodotto È stato montato sulla mia Benelli Trk502x e funziona alla perfezione. Sono molto soddisfatto.;1
+415;Montate su grande punto 2007; Il prodotto È stato montato sulla mia grande punto 2007 e funziona alla perfezione. Sono molto soddisfatto.;1
+416;Bel prodotto la scontento; Il prodotto È bello e di buona qualit‡, ma È troppo costoso. Non È giusto il prezzo.;1
+417;Non compatibili con auto Golf 7  informatevi bene prima di acquistare; Il prodotto non È compatibile con la mia auto Golf 7 e non funziona correttamente. Non lo consiglio.;1
+418;Di alta qualit√†; Il prodotto È di alta qualit‡ e fa il suo lavoro. Non ha problemi di sorta.;1
+419;Quando si acquistano lampade di questo tipo √® bene sapere che‚Ä¶; Quando si acquistano lampade di questo tipo, È importante controllare la compatibilit‡ con la propria auto. Non Ë? che il prodotto È di alta qualit‡.;1
+420;Ottime lampadine  anche se la ventola...; Le lampadine sono di ottima qualit‡, ma la ventola È un po' debole. Non È un problema grave, ma È una cosa di cui si dovrebbe essere consapevoli.;1
+421;Funzionano solo senza CAN-bus - Luce spettacolare!;Questo prodotto Ë fantastico, la luce Ë molto potente e chiara.;1
+422;Problema di passaggio da alogene a led  l'officina non me le ha montate;Ho dovuto modificare il mio vecchio sistema di illuminazione per adattarlo a questo prodotto.;1
+423;Luce potente e chiarissima  facile installazione;Questo prodotto Ë facile da installare e la luce Ë molto potente.;1
+424;Ottimo prodotto sotto l'aspetto hardware   fate attenzione agli ingombri della ventola;Questo prodotto ha un'ottima qualit‡ hardware, ma dovevo essere attento ai ingombri della ventola.;1
+425;Luminosit√† superiore  ma NON sono OMOLOGATE;Questo prodotto ha una luminosit‡ superiore, ma non Ë omologato.;1
+426;Elevata quait√† costruttiva e diposizione dei led innovativa e pi√π efficace;Questo prodotto ha una buona qualit‡ costruttiva e una disposizione dei LED innovativa e pi˘ efficace.;1
+427;"Appaiono ben realizzate e semplici da montare ma sono ""fuori legge""!";Questo prodotto sembra ben realizzato e semplice da montare, ma Ë fuori legge.;1
+428;Niente a che vedere con le vecchie lampadine alogene;Questo prodotto Ë molto migliore delle vecchie lampadine alogene.;1
+429;Buona intesit√° di luce da verificare la durata m tempo;Questo prodotto ha una buona intensit‡ di luce, devo verificare la durata nel tempo.;1
+430;Il problema √® l'omologazione!;Il problema con questo prodotto Ë l'omologazione.;1
+431;FASCIO NON PROPRIO UNIFORME;Questo prodotto non Ë uniforme.;1
+432;Una bellissima luce;Questo prodotto ha una luce bellissima.;1
+433;Visione chiara e nitida;Questo prodotto ha una visione chiara e nitida.;1
+434;OTTIMA KIT E BEL FASCIO DI LUCE...  PREZZO NELLA NORMA;Questo prodotto Ë un ottimo kit di luci, il prezzo Ë nella norma.;1
+435;üöòNon mi aspettavo tale brillantezza‚ú®e luminosit√†üí° non servonoüîßle centraline o modificheüëå;Questo prodotto ha una brillantezza e una luminosit‡ sorprendenti, non serve alcuna centrale o modifica.;1
+436;Ottime lampade di alto rendimento non CanBus; Le lampade di alto rendimento non CanBus sono fantastiche. Sono soddisfatto del prodotto e lo consiglio a tutti.;1
+437;Arrivano lontano  non hanno molta longevit√†.; Le lampade arrivano lontano, ma non hanno molta longevit‡. Non È un problema grave, ma È una cosa di cui si dovrebbe essere consapevoli.;1
+438;Bel prodotto; Il prodotto È bello e di buona qualit‡. Non ha problemi di sorta.;1
+439;Un faro led del 2021 in un'auto del 2012; Il faro led del 2021 È incompatibile con la mia auto del 2012. Non funziona correttamente. Non lo consiglio.;1
+440;Acquisto Sconsigliato; Il prodotto È scadente e non vale la pena spentare soldi per acquistarlo. Non lo consiglio.;1
+441;Porcheria della peggior Cina; Il prodotto È della peggior qualit‡ e non È degno di essere acquistato. Non lo consiglio.;1
+442;Acquisto deludente. Chiesto rimborso.; L'acquisto È stato deludente e non soddisfatto. Ho richiesto il rimborso del prodotto.;1
+443;Dubito dell‚Äô affidabilit√† di queste mascherine.; Dubito dell'affidabilit‡ di queste mascherine. Non sono sicuro se funzioneranno bene.;1
+444;Evitare; Il prodotto È da evitare. Non È di buona qualit‡ e non funziona correttamente.;1
+445;Mi dispiace  bocciato facile; Mi dispiace, ma il prodotto È stato bocciato facile. Non È di buona qualit‡.;1
+446;DA NON COMPERARE ASSOLUTAMENTE!!!!; Il prodotto È da non acquistare assolutamente. Non È di buona qualit‡ e non funziona correttamente.;1
+447;Vorrei renderlo perch√© pessimo ma pare non sia possibile; Vorrei renderlo because È pessimo, but seems it is not possible.;1
+448;In teoria vanno bene  ma...; In teoria, dovrebbero funzionare bene, ma...;1
+449;MINUSCOLE L  INUTILIZZABILI; Le minuscole L sono inutilizzabili. Non È un prodotto di buona qualit‡.;1
+450;Buone  ma...; Le lampade sono buone, ma ci sono alcuni problemi di qualit‡.;1
+451;Acquisto deludente;Sono stato deluso da questo prodotto, non vale la pena.;1
+452;Pessimo acquisto;Questo prodotto Ë stato un vero e proprio fallimento.;1
+453;Prodotto italiano da verificare idoneit√†;Devo verificare se questo prodotto italiano Ë adatto al mio uso.;1
+454;1/3 delle mascherine erano rotte.;Sono state rotte circa un terzo delle mascherine.;1
+455;Grande delusione;Questo prodotto ha sido una grande delusione.;1
+456;Mascherine bucate;Questo prodotto Ë arrivato bucato.;1
+457;LA SOLITA FREGATURA ALL'ITALIANA;Questo prodotto Ë stato danneggiato durante il trasporto.;1
+458;Buone mascherine e buon rapporto qualit√† prezzo.;Questo prodotto ha un buon rapporto qualit‡-prezzo.;1
+459;Comode  non male!;Questo prodotto Ë comodo da usare.;1
+460;Mascherine Sicura;Questo prodotto Ë sicuro da usare.;1
+461;Bel prodotto  per quanto non economico  ma troppo corti gli elastici!;Questo prodotto Ë bello, ma non Ë economico e gli elastici sono troppo corti.;1
+462;Pessime Ennesime  mascherine con elastici staccati.;Questo prodotto Ë pessimo, gli elastici sono staccati.;1
+463;grandezza;Questo prodotto Ë grande.;1
+464;Sembrano buone ma elastico stretto;Questo prodotto sembra buono, ma l'elastico Ë troppo stretto.;1
+465;Troppo grandi e rimangono troppo larghe;Questo prodotto Ë troppo grande e resta troppo largo.;1
+466;Tirano sulle orecchie;Le mascherine tirano sulle orecchie e mi costringono a sentire la mia respirazione. Non sono soddisfatto del prodotto.;1
+467;Non c'√® la colla sugli elastici; Gli elastici non hanno colla e si staccano facilmente. Non posso consigliare questo prodotto.;1
+468;ABBASSAMENTO LIVELLO DI QUALITA'; Il prodotto ha un basso livello di qualit‡ e non vale la pena spentare soldi per acquistarlo. Non lo consiglio.;1
+469;non adatte agli adulti; Le mascherine non sono adatte per gli adulti e non si adattano bene al mio volto. Non sono soddisfatto.;1
+470;Un po'piccole; Le mascherine sono un po' piccole e non coprono sufficientemente il mio viso. Non È un prodotto di buona qualit‡.;1
+471;Delusione; Sono deluso dal prodotto. Non È come descrivono e non funziona come dovrebbe.;1
+472;Pessime evitare; Evito questo prodotto. Non È di buona qualit‡ e non funziona correttamente.;1
+473;Acquisto fortemente sconsigliato; Non acquistare questo prodotto. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+474;non proprio soddisfatto...; Non sono proprio soddisfatto del prodotto. Non È come descrivono e non funziona come dovrebbe.;1
+475;Buon prodotto; Il prodotto È buono e di buona qualit‡. Non ha problemi di sorta.;1
+476;Ma prima di venderle hanno provato ad indossarle?; Si dovevano provare le mascherine prima di venderle. Non sono soddisfatto del prodotto.;1
+477;Spesso si stacca il laccetto; Il laccetto si stacca spesso e non È possibile usarle. Non consiglio questo prodotto.;1
+478;mascherine ffp2; Le mascherine ffp2 sono di buona qualit‡ e funzionano bene.;1
+479;Mascherine ffp2; Le mascherine ffp2 sono fantastiche e non hanno problemi di sorta.;1
+480;Ottimo ma elastici corti.; Il prodotto È ottimo, ma gli elastici sono corti e non si adattano bene al mio viso.;1
+481;Mascherina FFP2 quantit√† errata qualit√† non soddisfacente;Questo prodotto ha una quantit‡ errata di mascherine e la qualit‡ non Ë soddisfacente.;1
+482;Bene ma leggere;Questo prodotto Ë bene, ma Ë troppo leggero.;1
+483;Mascherine FFP2 Sicura;Questo prodotto ha mascherine FFP2 di qualit‡.;1
+484;Delusa;Sono delusa da questo prodotto.;1
+485;confezione danneggiata  mancano 4 mascherine;La confezione di questo prodotto Ë danneggiata e mancano 4 mascherine.;1
+486;Misura non adeguata agli adulti;La misura di questo prodotto non Ë adeguata per gli adulti.;1
+487;Ottimo prodoto ma...;Questo prodotto Ë ottimo, ma...;1
+488;Troppo grandi.....;Questo prodotto Ë troppo grande.;1
+489;buon prodotto;Questo prodotto Ë buono.;1
+490;PESSIMO PRODOTTO;Questo prodotto Ë pessimo.;1
+491;Molto buona ma contate le mascherine ;Questo prodotto Ë molto buono, ma bisogna contare le mascherine.;1
+492;Troppo strette;Questo prodotto Ë troppo stretto.;1
+493;Non soddisfatto;Non sono soddisfatto di questo prodotto.;1
+494;Prodotto soddisfacente anche se pervenuto in scatola rotta.;Questo prodotto Ë soddisfacente, anche se Ë arrivato in scatola rotta.;1
+495;ottime  ma l'elastico si stacca praticamente subito;Questo prodotto Ë ottimo, ma l'elastico si stacca praticamente subito;1
+496;Sconsiglio l'acquisto;Sconsiglio l'acquisto di questo prodotto. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+497;Gli elastici fanno malissimo. Sono strette. Il ferretto fa male! Per bambini o per visi sottilissimi; Gli elastici di questo prodotto fanno male e sono troppo stretti. Il ferretto fa male e non È adatto per visi adulti. Sono soddisfatto.;1
+498;descrizione non corretta; La descrizione del prodotto non È corretta e non rispecchia il prodotto reale. Non consiglio l'acquisto.;1
+499;Prodotto inutilizzabile elastici corti in modo incredibile. Non si pu√≤ vendere un prodotto cos√¨.; Il prodotto È inutilizzabile a causa degli elastici corti in modo incredibile. Non si puÚ vendere un prodotto di questa qualit‡.;1
+500;Dubbio sulla certificazione CE. Leggere..; Ho dubbi sulla certificazione CE di questo prodotto. La qualit‡ È dubbia e non consiglio l'acquisto.;1
+501;Mascherine sicure; Le mascherine sono sicure e di buona qualit‡. Non hanno problemi di sorta.;1
+502;Pensavo meglio...; Pensavo che il prodotto fosse meglio di quello che È. Non È di buona qualit‡ e non consiglio l'acquisto.;1
+503;Non tra i migliori; Il prodotto non È tra i migliori che ho acquistato. Non È di buona qualit‡ e non consiglio l'acquisto.;1
+504;Peccato tutte danneggiate; Peccato che il prodotto sia danneggiato. Non È di buona qualit‡ e non consiglio l'acquisto.;1
+505;Non sono adatte all'indosso da parte di un adulto; Le mascherine non sono adatte all'indosso da parte di un adulto. Non sono di buona qualit‡ e non consiglio l'acquisto.;1
+506;Cedono gli elastici facilmente; Gli elastici del prodotto cedono facilmente e non È possibile usarle. Non consiglio l'acquisto.;1
+507;Buon prodotto; Il prodotto È buono e di buona qualit‡. Non ha problemi di sorta.;1
+508;Fanno quello che promettono; Le mascherine fanno quello che promettono e sono di buona qualit‡.;1
+509;Qualit√† ma trasporto pi√π caro del previsto; Il prodotto ha una buona qualit‡, ma il trasporto È pi˘ caro del previsto. Non consiglio l'acquisto.;1
+510;Elastici troppo corti!; Gli elastici del prodotto sono troppo corti e non si adattano bene al mio viso. Non consiglio l'acquisto.;1
+511;Pratiche e comode;Queste maschere sono molto pratiche e comode da indossare. La qualit‡ Ë alta e i lacci sono perfetti per mantenerle in posizione. Sono felice di averle acquistate!;1
+512;Pessima confezione;Sono delusione dalla confezione di questi prodotti. La qualit‡ dell'imballaggio era molto scadente e i prodotti non erano protetti adeguatamente. Spero che la qualit‡ migliori in futuro.;1
+513;Molto scarse;Queste maschere sono troppo scarse! Non coprono sufficientemente il mio viso e non mi garantiscono la protezione che cerca. Non le consiglio a nessuno.;1
+514;MANCAVANO DUE MASCHERINE;Ho ricevuto tre maschere invece di quattro. Sono deluso porque ho pagato per quattro e ho ricevuto solo tre. Il mancato prodotto Ë un problema importante per me.;1
+515;Buone mascherine ma i lacci sono TROPPO STRETTI;Queste maschere sono di buona qualit‡, ma i lacci sono troppo stretti. Sono scomodi e difficili da indossare. Augurerei che venissero forniti lacci regolabili.;1
+516;i lacci di dx sono pi√π lunghi e meno elastici rispetto a quelli di sinistra;I lacci di queste maschere sono pi˘ lunghi e meno elastici rispetto a quelli sulla sinistra. Sono scomodi e non mi garantiscono la stessa protezione.;1
+517;Prodotto difettoso;Questo prodotto Ë difettoso. Le maschere non si adattano bene e i lacci sono troppo deboli. Sono deluso nella qualit‡.;1
+518;PROBLEMA CON GLI ELASTICI;Questo prodotto ha un problema con gli elastici. Sono troppo deboli e non garantiscono la protezione che cerca. Sono deluso e frustrato.;1
+519;Strette;Queste maschere sono troppo strette! Non mi garantiscono la protezione che cerca e sono scomode da indossare. Non le consiglio a nessuno.;1
+520;Si rompono gli elastici;Queste maschere sono troppo fragili. I lacci si rompono facilmente e non resistono a lungo. Non sono soddisfatto del prodotto.;1
+521;Ultimo acquisto deludente;Il mio ultimo acquisto di queste maschere Ë stato un fallimento. La qualit‡ era povera e non erano come le altre maschere che avevo acquistato in passato.;1
+522;Pessima qualit√†  assoli non consigliate;Queste maschere sono di pessima qualit‡ e non le consiglio a nessuno. Non sono fatte bene e non garantiscono la protezione che cerca.;1
+523;l ente certificatore non risulta nel registro NANDO;Non sono sicuro della qualit‡ di questo prodotto. Il certificato non Ë presente nel registro NANDO e questo mi fa dubitare della sua autenticit‡.;1
+524;Pessimo prodotto;Questo prodotto Ë pessimo. La qualit‡ Ë bassa e i lacci sono troppo deboli. Non lo consiglio a nessuno.;1
+525;Non consigliate molte sono difettose;Questo prodotto non Ë da consigliare. Molte delle maschere sono difettose e non garantiscono la protezione che cerca. Non vale la pena spendere soldi per questo prodotto.;1
+526;Ottima qualit√† da acquistare in promozione poich√© un po' care ma si sa il prodotto valido si paga.; Il prodotto ha un'ottima qualit‡ e È disponibile a buon prezzo durante le promozioni. » un'ottima scelta per chi vuole un prodotto di qualit‡ a buon prezzo.;1
+527;ottime e resistenti; Le cuffie sono ottime e resistenti. Non si rompono facilmente e si possono utilizzare per un lungo tempo.;1
+528;Pensavo di fare un ottimo acquisto; Pensavo di fare un ottimo acquisto, ma il prodotto non È stato come previsto. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+529;Non soddisfatto. 4 Strati. Non 5.; Non sono soddisfatto del prodotto. Ha solo 4 strati e non 5 come previsto. Non È di buona qualit‡ e non consiglio l'acquisto.;1
+530;Elastici corti; Gli elastici del prodotto sono corti e non si adattano bene al mio viso. Non consiglio l'acquisto.;1
+531;Funzionano; Le cuffie funzionano bene e non hanno problemi di sorta.;1
+532;Dopo un solo giorno non funziona pi√π; Il prodotto ha funzionato solo per un giorno e poi non È piatto funzionare. Non È di buona qualit‡ e non consiglio l'acquisto.;1
+533;Ha funzionato solo poco pi√π di un mese; Il prodotto ha funzionato solo per poco pi˘ di un mese e poi si È rotto. Non È di buona qualit‡ e non consiglio l'acquisto.;1
+534;Imballo poco accurato  custodia rotta  cuffie buone; L'imballo del prodotto È stato poco accurato e la custodia È rotta. Le cuffie sono buone, ma non vale la pena spentare soldi per acquistarlo.;1
+535;Si √® rotta di poco giorni; Il prodotto si È rotto di poco giorni e non È di buona qualit‡. Non consiglio l'acquisto.;1
+536;Cuffie con cancellaz. del rumore  In-Ear Bassi con Microfono e Controller (Black); Le cuffie hanno una buona capacit‡ di cancellazione del rumore e un buon microfono. Sono di buona qualit‡ e consiglio l'acquisto.;1
+537;Pessimo prodotto non lo consiglio; Il prodotto È pessimo e non lo consiglio. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+538;Scarso; Il prodotto È scarso e non È di buona qualit‡. Non consiglio l'acquisto.;1
+539;Qualita' del microfono pessima; La qualit‡ del microfono È pessima e non È adatta per le chiamate. Non consiglio l'acquisto.;1
+540;Cuffie con filo a volte gracchiano; Le cuffie possono gracchiare a volte, ma non È un problema grave. Sono di buona qualit‡ e consiglio l'acquisto.;1
+541;L'elettrostimolazione del prodotto √® buona  ma gli adesivi sono davvero carenti;Il prodotto ha una buona elettrostimolazione, ma mi aspettavo di pi˘ in tÈrmins of adesivi. Sono un po' delusione, ma comunque felice della mia scelta.;1
+542;Funziona;Il prodotto funziona alla perfezione, senza alcun problema. Davvero soddisfatto della mia scelta.;1
+543;Va bene il prezzo.. ma almeno l'onest√†!;Il prezzo del prodotto Ë ragionevole, ma mi aspettavo di pi˘ in tÈrmins of qualit‡. Sono un po' delusione, ma sto bene con la mia scelta.;1
+544;Sar√≤ stato sfortunato...;Sono stato un po' sfortunato con questo prodotto. Non Ë esattamente ciÚ che mi aspettavo, ma sto bene comunque.;1
+545;COMPATIBILI;Il prodotto Ë compatibile con il mio sistema operativo e funziona alla perfezione. Sono molto soddisfatto!;1
+546;Delusa;Sono un po' delusa dal prodotto. Non Ë esattamente ciÚ che mi aspettavo e mi sembra un po' costoso per il prezzo che ho pagato.;1
+547;Spedizione veloce ma...;La spedizione Ë stata veloce, ma il prodotto non Ë esattamente ciÚ che mi aspettavo. Sono un po' delusione, ma comunque soddisfatto della mia scelta.;1
+548;Pessimo acquisto;Questo prodotto Ë stato un vero e proprio fallimento. Non funziona come doveva e non vale la pena del prezzo che ho pagato. Sono molto delusione.;1
+549;Ottime;Il prodotto Ë ottimo e funziona alla perfezione. Davvero soddisfatto della mia scelta!;1
+550;Sembra che funzioni;Il prodotto sembra funzionare, ma non sono ancora sicuro se sia il caso di acquistarlo. Sono un po' indeciso, ma sto bene comunque.;1
+551;Ottimo;Il prodotto Ë ottimo e vale la pena del prezzo. Davvero soddisfatto della mia scelta!;1
+552;Mantiene le promesse;Il prodotto mantiene le promesse e funziona alla perfezione. Sono molto soddisfatto della mia scelta!;1
+553;belle e funzionali;Il prodotto Ë belle e funzionale, ma mi aspettavo di pi˘ in tÈrmins of qualit‡. Sono un po' delusione, ma sto bene comunque.;1
+554;Maniglie ventosa doccia;Le maniglie ventose della doccia sono ottime e funzionano alla perfezione. Sono molto soddisfatto della mia scelta!;1
+555;Effetti strani! Vorrei essere rassicurata che non sia dannoso;Il prodotto ha effetti strani che non sono sicuro se siano sicuri. Vorrei essere rassicurato che non sia dannoso per la mia salute.;1
+556;Dannoso per il gatto;Questo prodotto Ë dannoso per i gatti e non Ë adatto all'uso. Non consiglio questo prodotto a nessuno.;1
+557;√à inefficace;Questo prodotto Ë inefficace e non funziona come dovrebbe. Non vale la pena spendere soldi per questo prodotto.;1
+558;OTTIMO MA DIFFICILE SAPERE SE FUNZIONA REALMENTE;Questo prodotto Ë ottimo, ma Ë difficile sapere se funziona veramente. Non sono sicuro se consiglierlo o meno.;1
+559;Attrae le pulci;Questo prodotto attrae le pulci e non Ë adatto all'uso. Non consiglio questo prodotto a nessuno.;1
+560;Non di lunga durata;Questo prodotto non Ë di lunga durata e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+561;Sconsiglio.;Questo prodotto non Ë consigliato e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+562;inefficace contro zecche;Questo prodotto Ë inefficace contro le zecche e non funziona come dovrebbe. Non consiglio questo prodotto a nessuno.;1
+563;Anche no.;Questo prodotto non Ë adatto all'uso e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+564;Ok;Questo prodotto Ë ok, ma non Ë niente di speciale. Non Ë nemmeno vale la pena spendere soldi per esso.;1
+565;Qualit√†/prezzo ok;Questo prodotto ha una buona qualit‡ e un prezzo ok, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+566;Tazza da esposizione;Questa tazza Ë adatta all'esposizione, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+567;Una vera fregatura;Questo prodotto Ë una vera fregatura e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+568;Potete essere migliore;Questo prodotto potrebbe essere migliore, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+569;Insoddisfacente;Questo prodotto Ë insoddisfacente e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+570;Tazza topolino Disney;Questa tazza con il tema di Topolino Disney Ë carina, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+571;Sembra un giocattolo;Il prodotto sembra un giocattolo e mi sembra un po' infantile. Non Ë esattamente ciÚ che mi aspettavo, ma potrebbe essere utile per un regalo per un bambino.;1
+572;Completamente deluso dall'articolo;Sono completamente deluso dall'articolo. Non Ë esattamente ciÚ che mi aspettavo e mi sembra un po' costoso per il prezzo che ho pagato. Non lo consiglio.;1
+573;Prodotto non sicuro!;Il prodotto non Ë sicuro! Non consiglio di acquistarlo. Non vale la pena del rischio per la tua sicurezza.;1
+574;La parte grafica √® un adesivo  attenzione.;La parte grafica del prodotto Ë un adesivo e ci sono dubbi sulla sua durata. Attenzione di non acquistarlo se si desidera un prodotto di qualit‡.;1
+575;DA EVITARE!;Evita questo prodotto! Non Ë affatto ciÚ che si aspetta e non vale la pena del prezzo che costa.;1
+576;Anche no.;Anche no, non Ë il prodotto che avevo immaginato. Non consiglio di acquistarlo.;1
+577;Ok;Il prodotto Ë ok, ma non eccede le mie aspettative. Potrebbe essere utile per un uso occasionale.;1
+578;Qualit√†/prezzo ok;La qualit‡ del prodotto Ë ok, ma il prezzo Ë un po' alto. Potrebbe essere un'opzione per un regalo.;1
+579;Tazza da esposizione;La tazza Ë ok per l'esposizione, ma non Ë esattamente ciÚ che mi aspettavo. Potrebbe essere utile per un evento speciale.;1
+580;Potete essere migliore;Il prodotto potrebbe essere migliore. Non consiglio di acquistarlo se si desidera un prodotto di alta qualit‡.;1
+581;Insoddisfacente;Il prodotto Ë insoddisfacente e non vale la pena del prezzo che costa. Non lo consiglio.;1
+582;Tazza topolino Disney;La tazza Topolino Disney Ë carina, ma non Ë esattamente ciÚ che mi aspettavo. Potrebbe essere un'opzione per un regalo per un bambino.;1
+583;Sembra un giocattolo;Il prodotto sembra un giocattolo e non Ë esattamente ciÚ che mi aspettavo. Potrebbe essere utile per un regalo per un bambino.;1
+584;Completamente deluso dall'articolo;Sono completamente deluso dall'articolo. Non Ë esattamente ciÚ che mi aspettavo e mi sembra un po' costoso per il prezzo che ho pagato. Non lo consiglio.;1
+585;Prodotto non sicuro!;Il prodotto non Ë sicuro! Non consiglio di acquistarlo. Non vale la pena del rischio per la tua sicurezza.;1
+586;La parte grafica √® un adesivo  attenzione.;La parte grafica del prodotto È un adesivo, ciÚ È un problema. Non È possibile utilizzare il prodotto come previsto.;1
+587;DA EVITARE!; Evito assolutamente questo prodotto. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+588;Molto funzionale; Il prodotto È molto funzionale e utile. Non ha problemi di sorta e È facile da utilizzare.;1
+589;ci sono gli adattatori per i vari filetti cosa molto utile; Il prodotto È dotato di adattatori per i vari filetti, È molto utile e pratico.;1
+590;Funzionale; Il prodotto funziona bene e non ha problemi di sorta.;1
+591;Consistenza; La consistenza del prodotto È buona, È solido e non si rompe facilmente.;1
+592;Scarsa qualit√†; Il prodotto ha una scarsa qualit‡ e non È di buona fattura. Non È un prodotto affidabile.;1
+593;non √® quanto ordinato; Il prodotto non È quello che avevo ordinato. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+594;Plastica resistente; La plastica del prodotto È resistente e non si rompe facilmente.;1
+595;Bene ma non benissimo; Il prodotto È bene, ma non È benissimo. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+596;Acqua aromatizzata; Il prodotto È acqua aromatizzata e non È di buona qualit‡. Non È un prodotto affidabile.;1
+597;Giudizio medio; Il prodotto È di media qualit‡. Non È nÈ buono nÈ cattivo, È un prodotto normale.;1
+598;Ottimo rapporto qualit√† prezzo; Il prodotto ha un ottimo rapporto qualit‡-prezzo. … di buona qualit‡ e non costa molto.;1
+599;FREGATURA; Il prodotto È una fregatura. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+600;Nulla di che!; Il prodotto È nulla di che. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+601;Pessimo collare;Questo collare Ë pessimo e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+602;Sorpresa;Questo prodotto Ë una sorpresa e non era quel che mi aspettavo. Non Ë nemmeno vale la pena spendere soldi per esso.;1
+603;Collare schifoso;Questo collare Ë schifoso e non Ë adatto all'uso. Non consiglio questo prodotto a nessuno.;1
+604;Prodotto non conforme alla descrizione;Questo prodotto non Ë conforme alla descrizione e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+605;Quasi perfetto;Questo prodotto Ë quasi perfetto, ma non Ë completamente soddisfacente. Non consiglio questo prodotto a nessuno.;1
+606;Funzionale e pratico.;Questo prodotto Ë funzionale e pratico, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+607;Funzionale;Questo prodotto Ë funzionale, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+608;Uno dei pochi Settimanali con coperchio in Italiano;Questo prodotto Ë uno dei pochi settimanali con coperchio in italiano, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+609;Restituito;Questo prodotto Ë stato restituito e non Ë soddisfacente. Non consiglio questo prodotto a nessuno.;1
+610;Pessimo.;Questo prodotto Ë pessimo e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+611;Portapillole;Questo prodotto Ë un portapillole e non Ë adatto all'uso. Non consiglio questo prodotto a nessuno.;1
+612;Danneggiato;Questo prodotto Ë danneggiato e non Ë soddisfacente. Non consiglio questo prodotto a nessuno.;1
+613;Grossolano;Questo prodotto Ë grossolano e non Ë adatto all'uso. Non consiglio questo prodotto a nessuno.;1
+614;Buon prodotto;Questo prodotto Ë buono, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+615;Robusta;Questo prodotto Ë robusto e funzionale, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+616;Robusta;Il prodotto Ë robusto e di buona qualit‡. Davvero soddisfatto della mia scelta!;1
+617;discreto+;Il prodotto Ë discreto e non molto appariscente. Mi aspettavo di pi˘, ma sto bene comunque.;1
+618;Inefficace;Il prodotto Ë inefficiente e non funziona come doveva. Sono un po' deluso, ma sto bene comunque.;1
+619;NON COMPRATELO BUTTATE SOLO I SOLDI;Non consiglio di acquistare questo prodotto. Non vale la pena del prezzo che costa. Non funziona come doveva.;1
+620;Inutile;Il prodotto Ë inutile e non serve a niente. Non consiglio di acquistarlo.;1
+621;Niente di particolare;Il prodotto non ha niente di particolare. Non consiglio di acquistarlo.;1
+622;Falsa la Stanchezza;Il prodotto non funziona come doveva. Falsa la Stanchezza. Non consiglio di acquistarlo.;1
+623;A me non funziona non vibra accende solo la luce b√® non lo consiglio;Il prodotto non funziona per me. Non vibra e accende solo la luce. Non lo consiglio.;1
+624;Graffi  spaccature e macchie;Il prodotto ha graffi, spaccature e macchie. Non Ë di alta qualit‡. Non consiglio di acquistarlo.;1
+625;Compatto e funzionale.;Il prodotto Ë compatto e funzionale. Davvero soddisfatto della mia scelta!;1
+626;NON funziona con le Carte di Identit√† Elettroniche - L'assistenza NON risponde;Il prodotto non funziona con le Carte di Identit‡ Elettroniche e l'assistenza non risponde. Non consiglio di acquistarlo.;1
+627;Utile;Il prodotto Ë utile e funzionale. Davvero soddisfatto della mia scelta!;1
+628;Buono;Il prodotto Ë buono e di buona qualit‡. Davvero soddisfatto della mia scelta!;1
+629;Ancora da valutare appieno;Il prodotto Ë ancora da valutare appieno. Non sono ancora sicuro se funziona come doveva.;1
+630;Da migliorare come estetica  materiali e PREZZO!;Il prodotto ha bisogno di migliorare come estetica e prezzo. Non Ë di alta qualit‡. Non consiglio di acquistarlo.;1
+631;Buen rapporto qualit√†-prezzo; Il prodotto offre un buon rapporto qualit‡-prezzo. … di buona qualit‡ e non costa molto.;1
+632;Plammaxs Microneedle Derma Roller; Il Plasmaxs Microneedle Derma Roller È un prodotto efficace per la cura della pelle. Non solo È facile da usare, ma È anche di buona qualit‡.;1
+633;Efficace sul dolore e tono umore; Il prodotto È efficace sia sul dolore che sul tono umore. … un prodotto di qualit‡ e consigliomirtilo.;1
+634;Da verificare...; Devo verificare se il prodotto È davvero efficace. Non sono soddisfatto del prodotto e non lo consiglio.;1
+635;allenamento divertente  unica pecca rumoroso; L'allenamento È divertente, ma il rumore È fastidioso. Non È un prodotto per me.;1
+636;Buono anche se rumoroso; Il prodotto È buono, ma il rumore È un problema. Non È un prodotto per me.;1
+637;Non completamente soddisfatta; Non sono completamente soddisfatta del prodotto. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+638;Ma.........; Il prodotto È di buona qualit‡, ma ci sono alcuni problemi. Non È un prodotto per me.;1
+639;Fa il suo lavoro; Il prodotto fa il suo lavoro e non ha problemi di sorta.;1
+640;idea interessante  ma ha delle pecche...; L'idea È interessante, ma il prodotto ha delle pecche. Non È un prodotto per me.;1
+641;Secondo me √® anche un po' pericoloso ...; Il prodotto È un po' pericoloso e non È un prodotto per me.;1
+642;Hula hoop dimagrante  buona l'idea ma da rivedere; L'idea È buona, ma il prodotto È da rivedere. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+643;Funzionale e funzionante  rotelle di plastica e prezzo un po' alto; Il prodotto È funzionale e funzionante, ma il prezzo È un po' alto. Non È un prodotto per me.;1
+644;Idea interessante; L'idea È interessante, ma il prodotto È di bassa qualit‡.;1
+645;NON IDONEO PER GLI UOMINI; Il prodotto non È adatto per gli uomini. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+646;Funziona ma..;Questo prodotto funziona, ma non Ë proprio quel che mi aspettavo. Non Ë nemmeno vale la pena spendere soldi per esso.;1
+647;Non resiste alle intemperie;Questo prodotto non resiste alle intemperie e non Ë adatto all'uso. Non consiglio questo prodotto a nessuno.;1
+648;INUTILI;Questo prodotto Ë inutile e non serve a niente. Non consiglio questo prodotto a nessuno.;1
+649;Colla pessima;Questa colla Ë pessima e non Ë adatta all'uso. Non consiglio questo prodotto a nessuno.;1
+650;Non vale il suo prezzo;Questo prodotto non vale il suo prezzo e non Ë nemmeno soddisfacente. Non consiglio questo prodotto a nessuno.;1
+651;Ombrello Avengers bambino;Questo ombrello per bambini Ë carino, ma non Ë costruito bene. Non consiglio questo prodotto a nessuno.;1
+652;Anche no.;Questo prodotto non Ë nemmeno vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+653;Ok;Questo prodotto Ë ok, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+654;Qualit√†/prezzo ok;Questo prodotto ha una buona qualit‡ e un prezzo ok, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+655;Tazza da esposizione;Questa tazza per l'esposizione Ë carina, ma non Ë adatta all'uso. Non consiglio questo prodotto a nessuno.;1
+656;Potete essere migliore;Questo prodotto potrebbe essere migliore, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+657;Insoddisfacente;Questo prodotto Ë insoddisfacente e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+658;Tazza topolino Disney;Questa tazza con il tema di Topolino Disney Ë carina, ma non Ë niente di speciale. Non consiglio questo prodotto a nessuno.;1
+659;Sembra un giocattolo;Questo prodotto sembra un giocattolo e non Ë adatto all'uso. Non consiglio questo prodotto a nessuno.;1
+660;Completamente deluso dall'articolo;Questo prodotto Ë complemente deluso e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+661;Prodotto non sicuro!;Il prodotto non Ë sicuro! Non consiglio di acquistarlo. Non vale la pena del rischio per la tua sicurezza.;1
+662;La parte grafica √® un adesivo  attenzione.;La parte grafica del prodotto Ë un adesivo e ci sono dubbi sulla sua durata. Attenzione di non acquistarlo se si desidera un prodotto di qualit‡.;1
+663;DA EVITARE!;Evita questo prodotto! Non Ë affatto ciÚ che si aspetta e non vale la pena del prezzo che costa.;1
+664;Una grande schifezza;Il prodotto Ë una grande schifezza e non vale la pena del prezzo che costa. Non consiglio di acquistarlo.;1
+665;Prima impressione? 2 stelle  ma vorrei ricredermi.;La prima impressione del prodotto Ë di 2 stelle, ma vorrei ricredermi. Non sono soddisfatto del prodotto e non lo consiglio.;1
+666;Reso!;Ho ricevuto il prodotto e devo dire che Ë Reso! Non vale la pena del prezzo che costa.;1
+667;Non bene per magsafe!;Il prodotto non Ë bene per magsafe! Non consiglio di acquistarlo se si desidera un prodotto di qualit‡.;1
+668;Complicato   a me personalmente non √® piaciuto;Il prodotto Ë complicato e a me personalmente non Ë piaciuto. Non consiglio di acquistarlo.;1
+669;Pessimo prodotto;Il prodotto Ë pessimo e non vale la pena del prezzo che costa. Non consiglio di acquistarlo.;1
+670;Arrivato in un modello di forma diverso;Il prodotto Ë arrivato in un modello di forma diverso e non Ë soddisfacente. Non consiglio di acquistarlo.;1
+671;Compatibile  sembra quasi quella della casa madre;Il prodotto sembra compatibile e sembra quasi quella della casa madre. Non consiglio di acquistarlo.;1
+672;Sembra un buon prodotto  ma...;Il prodotto sembra un buon prodotto, ma ci sono alcuni problemi. Non consiglio di acquistarlo.;1
+673;PESSIMA! Evitatela come la peste!!!;Evita questo prodotto come la peste! Non Ë affatto ciÚ che si aspetta e non vale la pena del prezzo che costa.;1
+674;Bolle su tutte e due le pellicole;Il prodotto bolle su tutte e due le pellicole e non Ë soddisfacente. Non consiglio di acquistarlo.;1
+675;Buona cover;La cover del prodotto Ë buona, ma il prodotto in sÈ non Ë soddisfacente. Non consiglio di acquistarlo.;1
+676;Non √® trasparente; Il prodotto non È trasparente come doveva essere. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+677;Comoda sim ma prezzo crollato giorno successivo; Il prodotto È comodo, ma il prezzo È crollato il giorno successivo. Non È un buon affare.;1
+678;Bella √® trasparente; Il prodotto È bell'Ë trasparente. … di buona qualit‡ e soddisfatto del prezzo.;1
+679;Assolutamente NO!; Il prodotto È assolutamente no. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+680;Buona  ma si pu√≤ migliorare!; Il prodotto È buono, ma si puÚ migliorare. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+681;proteggi schermo iphone; Il prodotto protecte efficacementel schermo dell'iphone. … di buona qualit‡ e soddisfatto del prezzo.;1
+682;Buono ma presa un po‚Äô scivolosa; Il prodotto È buono, ma ha una presa un po' scivolosa. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+683;Piacevolmente Sorpreso‚Ä¶Very Goog..!; Il prodotto È piacevolmente sorpreso. … di buona qualit‡ e soddisfatto del prezzo.;1
+684;Ottimo; Il prodotto È ottimo. … di buona qualit‡ e soddisfatto del prezzo.;1
+685;Servizio post vendita pessimo; Il servizio post vendita È pessimo. Non È un prodotto per me.;1
+686;Soldi buttati; Il prodotto non vale la pena spentare soldi per acquistarlo. Non È di buona qualit‡.;1
+687;Difficilissima da rimuovere; Il prodotto È difficilissimo da rimuovere. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+688;UPDATE (17Dic21) - Ottimo prodotto ‚Ä¶ con un ‚Äúma‚Äù; Il prodotto È ottimo, ma ci sono alcuni problemi. Non È un prodotto per me.;1
+689;Non sono in vetro temperato; Il prodotto non Ë in vetro temperato. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+690;Altera i colori del display; Il prodotto altera i colori del display. Non È di buona qualit‡ e non vale la pena spentare soldi per acquistarlo.;1
+691;perfetta;Questo prodotto Ë perfetto e soddisfacente. Non ha alcun difetto e funziona alla perfezione. Consiglio questo prodotto a tutti.;1
+692;Ottimo!;Questo prodotto Ë ottimo e vale la pena spendere soldi per esso. » di alta qualit‡ e funziona alla perfezione. Consiglio questo prodotto a tutti.;1
+693;Non dovrebbero durare di pi√π?;Questo prodotto dovrebbe durare di pi˘. Non Ë soddisfacente e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+694;applicatore inutilizzabile;Questo applicatore Ë inutilizzabile e non funziona alla perfezione. Non consiglio questo prodotto a nessuno.;1
+695;Consigliato!;Questo prodotto Ë consigliato e di alta qualit‡. Funziona alla perfezione e vale la pena spendere soldi per esso. Consiglio questo prodotto a tutti.;1
+696;Qualit√†;Questo prodotto ha una buona qualit‡ e funziona alla perfezione. Non ha alcun difetto e vale la pena spendere soldi per esso. Consiglio questo prodotto a tutti.;1
+697;Pensavo meglio;Questo prodotto non Ë proprio quel che mi aspettavo. Non Ë soddisfacente e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+698;Salvare il display da graffi e cadute accidentali? Si pu√≤  bene e con poca spesa!;Questo prodotto Ë perfetto per salvare il display da graffi e cadute accidentali. » economicamente conveniente e funziona alla perfezione. Consiglio questo prodotto a tutti.;1
+699;Facile da installare;Questo prodotto Ë facile da installare e non richiede alcuna competenza speciale. Funziona alla perfezione e vale la pena spendere soldi per esso. Consiglio questo prodotto a tutti.;1
+700;Applicatore troppo stretto  adesivo di bassa qualit√†;Questo applicatore Ë troppo stretto e non aderisce bene. La qualit‡ Ë bassa e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+701;Anche No;Questo prodotto non Ë soddisfacente e non vale la pena spendere soldi per esso. Non ha alcun pregio e non consiglio questo prodotto a nessuno.;1
+702;Strumento di installazione non incluso;Questo prodotto non include lo strumento di installazione e non Ë facile da installare. Non Ë soddisfacente e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+703;Non aderisce bene e crea bolle;Questo prodotto non aderisce bene e crea bolle. Non Ë di alta qualit‡ e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+704;Decente;Ho acquistato questo prodotto e deve dire che Ë stato un buon acquisto. La qualit‡ Ë discreta e il prezzo Ë stato giusto. Non ha fonctionato male, ma non Ë stato eccezionale neanche. Un prodotto decente, ma non straordinario.;1
+705;Qualit√† prezzo super ok;Ho acquistato questo prodotto e devo dire che la qualit‡ Ë stata superiore alle mie aspettative. Il prezzo Ë stato molto conveniente e ho ottenuto un ottimo valore per il mio denaro. Non ho alcuna lagnanza, tutto era perfetto.;1
+706;Non il solito thriller;Questo prodotto non Ë il solito thriller che si aspetta. Non Ë emozionante e non ha una trama interessante. Non consiglio questo prodotto a nessuno.;1
+707;Un insolito noir che fa riflettere;Questo prodotto Ë un insolito noir che fa riflettere. Ha una trama interessante e una buona qualit‡. Consiglio questo prodotto a tutti.;1
+708;Inconcludente;Questo prodotto Ë inconcludente e non ha un finale soddisfacente. Non Ë nemmeno emozionante e non ha una trama interessante. Non consiglio questo prodotto a nessuno.;1
+709;Plastica di bassa qualit√†;Questo prodotto Ë fatto di plastica di bassa qualit‡ e non Ë duratura. Non consiglio questo prodotto a nessuno.;1
+710;Buon articolo;Questo articolo Ë buono e di alta qualit‡. » ben costruito e funziona alla perfezione. Consiglio questo prodotto a tutti.;1
+711;Non funziona bene;Questo prodotto non funziona bene e non Ë soddisfacente. Non ha alcuna pregio e non consiglio questo prodotto a nessuno.;1
+712;Non acquistele;Questo prodotto non Ë nemmeno vale la pena spendere soldi per esso. Non ha alcun pregio e non consiglio questo prodotto a nessuno.;1
+713;Affidabilit√†;Questo prodotto ha una buona affidabilit‡ e funziona alla perfezione. » di alta qualit‡ e consiglio questo prodotto a tutti.;1
+714;la connessione non funziona;Questo prodotto ha una connessione che non funziona e non Ë soddisfacente. Non consiglio questo prodotto a nessuno.;1
+715;Non ci siamo!;Questo prodotto non Ë nemmeno vicino a ciÚ che si aspetta. Non ha alcun pregio e non consiglio questo prodotto a nessuno.;1
+716;Buon rapporto qualit√† prezzo ma....;Questo prodotto ha un buon rapporto qualit‡ prezzo, ma non Ë soddisfacente. Non ha alcun pregio e non consiglio questo prodotto a nessuno.;1
+717;Durate 11 minuti;Questo prodotto dura solo 11 minuti e non Ë soddisfacente. Non consiglio questo prodotto a nessuno.;1
+718;Buone;Questo prodotto Ë buono e di alta qualit‡. Funziona alla perfezione e consiglio questo prodotto a tutti.;1
+719;Buone ma...;Questo prodotto Ë buono ma non Ë soddisfacente. Non ha alcun pregio e non consiglio questo prodotto a nessuno.;1
+720;Ottimo rapporto qualit√† prezzo;Questo prodotto ha un ottimo rapporto qualit‡ prezzo e Ë di alta qualit‡. Consiglio questo prodotto a tutti.;1
+721;Qualit√† del suono imbarazzante;Questo prodotto ha una qualit‡ del suono imbarazzante e non Ë soddisfacente. Non consiglio questo prodotto a nessuno.;1
+722;Mediocri;Questo prodotto Ë mediocre e non ha alcun pregio. Non consiglio questo prodotto a nessuno.;1
+723;Magari buone per la musica non per telefonare;Questo prodotto potrebbe essere buono per la musica, ma non Ë adatto per telefonare. Non consiglio questo prodotto a nessuno.;1
+724;Ottime ma ho beccato le difettose;Questo prodotto Ë ottimo, ma ho beccato le difettose. Non consiglio questo prodotto a nessuno.;1
+725;Pessimo prodotto;Questo prodotto Ë pessimo e non vale la pena spendere soldi per esso. Non consiglio questo prodotto a nessuno.;1
+726;Ottimo prodotto;Questo prodotto Ë ottimo e di alta qualit‡. Consiglio questo prodotto a tutti.;1
+727;Mah;Questo prodotto Ë Mah e non ha alcun pregio. Non consiglio questo prodotto a nessuno.;1
+728;Il gioco non vale la candela.;Questo prodotto non vale la candela e non Ë soddisfacente. Non consiglio questo prodotto a nessuno.;1
+729;SARO' STATO SFORTUNATO MA....;Questo prodotto non Ë stato fortunato e non Ë soddisfacente. Non consiglio questo prodotto a nessuno.;1
+730;Non √® 4k e non arriva neanche al FULL HD!!!;Questo prodotto non Ë 4k e non arriva neanche al FULL HD. Non consiglio questo prodotto a nessuno.;1
+731;Funziona ma ha qualche problema;Questo prodotto funziona, ma ha qualche problema. Non consiglio questo prodotto a nessuno.;1
+732;Un‚Äôaltra delusione;Questo prodotto Ë un'altra delusione e non Ë soddisfacente. Non consiglio questo prodotto a nessuno.;1
+733;Fa quello che promette;Questo prodotto fa quello che promette e Ë di alta qualit‡. Consiglio questo prodotto a tutti.;1
+734;non corrisponde affatto alla descrizione;Questo prodotto non corrisponde affatto alla descrizione e non Ë soddisfacente. Non consiglio questo prodotto a nessuno.;1
+735;Alla fine l‚Äôho connessa e funziona;Questo prodotto alla fine si Ë connesso e funziona, ma non Ë soddisfacente. Non consiglio questo prodotto a nessuno.;1
+736;Ottima videocamera  ma...; La videocamera Ë di ottima qualit‡ e registra immagini chiare e nitide. Tuttavia, ci sono state alcune lagnanze sul fatto che non ci sia una connessione Wi-Fi, quindi Ë necessario utilizzare il cavo per transferire i file.;1
+737;Nessuna connessione wifi; La videocamera non ha una connessione Wi-Fi integrata, il che puÚ essere un problema per chi vuole condividere facilmente i propri video.;1
+738;O sono stato sfortunato o √® un pacco; Il prodotto Ë arrivato in modo tempestivo e il pacco sembrava essere stato aperto e rimaneggiato. Non ho potuto utilizzare il prodotto a causa di questo.;1
+739;Pessima; Il prodotto non Ë stato adatto alle mie esigenze e non ha funzionato come sperato.;1
+740;La utilizzo a casa in cucina con il cellulare; La videocamera Ë molto comoda da utilizzare e la uso spesso per le mie trasmissioni in diretta in cucina.;1
+741;risoluzione; La risoluzione del prodotto Ë alta e offre immagini chiare e dettagliate.;1
+742;Connessione alla rete non funzionante  quindi setup impossibile; Il prodotto non ha una buona connettivit‡ e non Ë stato possibile configurarlo correttamente.;1
+743;ottima qualit√† video; La qualit‡ video del prodotto Ë molto buona e offre immagini nitide e chiare.;1
+744;Cuffie; Il prodotto include delle cuffie di alta qualit‡ che offrono un suono chiaro e cristallino.;1
+745;Belle  comode  mah; Il prodotto Ë molto comodo da utilizzare e offre una buona qualit‡, ma ci sono stati alcuni problemi di connessione.;1
+746;Forte ronzio alla sinistra; Il prodotto ha un forte ronzio alla sinistra, il che puÚ essere fastidioso durante l'utilizzo.;1
+747;Difetti strutturali; Il prodotto ha alcuni difetti strutturali che lo rendono poco affidabile.;1
+748;Inadatte al running; Il prodotto non Ë adatto per l'utilizzo durante il running, nonostante il produttore lo consiglio per tale attivit‡.;1
+749;Filo per la ricarica insufficiente; Il filo per la ricarica fornito Ë troppo corto e non consente di utilizzare il prodotto per molto tempo.;1
+750;Hanno  suono chiaro e cristallino; Le cuffie del prodotto offrono un suono chiaro e cristallino, ma ci sono stati problemi di connessione.;1
+751;Cambio valutazione dopo un paio di mesi di utilizzo; Dopo aver utilizzato questo prodotto per un paio di mesi, devo dire che la mia valutazione Ë cambiata. Inizialmente, ero soddisfatto del prodotto, ma con il passare del tempo ho notato alcuni problemi. Il prodotto non Ë cosÏ duraturo come pensavo e ha bisogno di essere ripulito spesso per mantenere la sua efficienza. Nonostante questo, Ë ancora un prodotto di buona qualit‡ e lo consiglio a chi cerca un prodotto simile.;1
+752;Smart watch; Questo smart watch Ë fantastico! » facile da utilizzare e ha molte funzionalit‡ utili. Adoro il fatto che posso controllare la mia attivit‡ fisica, leggere le notifiche e persino rispondere ai messaggi direttamente dal mio polso. La batteria dura abbastanza a lungo e la qualit‡ del suono Ëottima. Assolutamente consigliato!;1
+753;Essendomi arrivato da qualche giorno non sono in grado di valutarlo; Non sono in grado di valutare questo prodotto poichÈ non l'ho utilizzato ancora. Arrivato solo da poco, devoConfigurationondersi se Funziona come previsto.;1
+754;Valori non attendibili; Questo prodotto non ha dei valori attendibili. La qualit‡ Ë molto scarsa e non vale la pena del prezzo che si paga. Non lo consiglio a nessuno.;1
+755;Non lo consiglio; Non consiglio questo prodotto a nessuno. Non solo Ë costoso, ma anche di bassa qualit‡. Non vale la pena del prezzo che si paga.;1
+756;PESSIME SE NON RIDICOLE; Questo prodotto Ë incredibilmente scadente. Non solo non funziona come previsto, ma Ë anche estremamente fragile. Non vale la pena del prezzo che si paga. Non lo consiglio a nessuno.;1
+757;Suono Fantastico; Questo prodotto ha un suono fantastico! » facile da utilizzare e la qualit‡ del suono Ë incredibile. Adoro il fatto che posso utilizzarlo per ascoltare la musica o guardare film. Assolutamente consigliato!;1
+758;La cuffie non durano 5-7 ore come descritto; Queste cuffie non durano affatto 5-7 ore come descritto. In realt‡, durano poco pi˘ di 2 ore. Sono delusione e non le consiglio a nessuno.;1
+759;"Leggerissime ""rettifica"""; Questo prodotto Ë incredibilmente leggero e facile da utilizzare. La qualit‡ Ë ottima e il prezzo Ë molto conveniente. Assolutamente consigliato!;1
+760;ottimo tappetino; Questo tappetino Ë ottimo! » facile da pulire e la qualit‡ Ë molto buona. » un prodotto di buona qualit‡ e lo consiglio a chi cerca un tappetino di alta qualit‡.;1
+761;Bello ed economico ma non il massimo; Questo prodotto Ë bello e economico, ma non Ë il massimo. La qualit‡ Ë buona, ma non Ë eccezionale. Se si cerca un prodotto economico, questo potrebbe essere una buona scelta.;1
+762;Il colore non corrisponde; Il colore di questo prodotto non corrisponde a quello descritto. Inoltre, la qualit‡ Ë molto scarsa e non vale la pena del prezzo che si paga. Non lo consiglio a nessuno.;1
+763;Conviene questo dispositivo?  Ni....; Non conviene affatto questo dispositivo. Non solo Ë costoso, ma anche di bassa qualit‡. Non vale la pena del prezzo che si paga.;1
+764;Restituito;Ho dovuto restituire questo prodotto a causa di un problema di qualit‡. Sono stato soddisfatto del servizio di restituzione e della soluzione offerta dal venditore. Non ho alcuna lagnanza, il problema Ë stato risolto in modo efficiente.;1
+765;Voto zero;Ho provato questo prodotto e devo dire che Ë stato un vero delusione. Non solo non ha funzionato come doveva, ma ha anche causato problemi aggiuntivi. Non consiglio questo prodotto a nessuno, Ë un vero spreco di denaro.;1
+766;Scomodo; Il prodotto Ë scomodo da utilizzare e non soddisfa le mie aspettative.;1
+767;Audio pessimo; Il prodotto ha un audio di bassa qualit‡ e non Ë adatto per l'utilizzo che ne avevo bisogno.;1
+768;nessuno mi sente; Non ho ricevuto nessuna risposta dal vendor quando ho contattato per avere assistenza.;1
+769;MI SONO ARRIVATE MA DIVERSE DA QUELLE IN VENDITA; Le cuffie che mi sono state consegnate sono diverse da quelle che avevo ordinato e non mi piacciono affatto.;1
+770;Prodotto restituito; Ho dovuto restituire il prodotto a causa della qualit‡ scadente.;1
+771;Difformi da quelle in foto; Le cuffie che ho ricevuto sono diverse da quelle mostrate nella foto del prodotto e non mi piacciono affatto.;1
+772;Acquistare consapevolmente; Sarebbe meglio acquistare un prodotto di migliore qualit‡ che soddisfi le tue aspettative.;1
+773;Recensione; Il prodotto ha ricevuto molte recensioni negative e non Ë consigliabile.;1
+774;FFp2 nere; Le cuffie hanno un design poco attraente e non mi piacciono affatto.;1
+775;I lacci sono troppo corti; I lacci del prodotto sono troppo corti e non si adattano alla mia testa.;1
+776;Prodotto adeguato; Il prodotto Ë adeguato alle mie esigenze e funziona correttamente.;1
+777;Mascherine; Il prodotto Ë una mascherina di alta qualit‡ che offre una buona protezione.;1
+778;TROPPO facili da rimuovere; Le cuffie sono troppo facili da rimuovere e non si adattano alla mia testa.;1
+779;Funzionali ma un po' scomodi; Il prodotto Ë funzionale, ma Ë un po' scomodo da utilizzare.;1
+780;Da valutare meglio; Il prodotto non Ë soddisfacente e dovrebbe essere valutato meglio.;1
+781;Pensavo meglio; Questo prodotto non Ë stato quello che avevo immaginato. Speravo in qualcosa di migliore, ma alla fine ho dovuto rimanere deluso. La qualit‡ non Ë delle migliori e non vale la pena del prezzo che si paga.;1
+782;Riscaldamento rapido e tessuto termo conservante; Questo prodotto Ë fantastico! Il riscaldamento Ë rapido e il tessuto termo conservante Ë molto comodo. E' difficile trovare un prodotto simile in questa fascia di prezzo.;1
+783;PICCOLINO; Questo prodotto Ë troppo piccolo per il prezzo che si paga. Non vale la pena, esistono altre opzioni migliori e pi˘ convenienti.;1
+784;Semplice ma abbastanza efficace.; Questo prodotto Ë semplice ma efficace. Non ha tante funzionalit‡, ma quelle che ha funzionano bene. » una buona opzione per chi cerca qualcosa di semplice e conveniente.;1
+785;Attenzione ai tasti; Attenzione ai tasti di questo prodotto. Sono molto piccoli e non facili da premere. » frustrante da usare e non vale il prezzo.;1
+786;acquisto da evitare; Questo prodotto non vale i soldi spesi. La qualit‡ Ë scarsa e non dura a lungo. Non lo consiglierei a nessuno.;1
+787;Pessimo!!!; Questo prodotto Ë terribile! La qualit‡ Ë orribile e non funziona come promesso. Sono molto deluso e non lo comprerei di nuovo.;1
+788;ARRIVATO ROTTO AURICOLARE SINISTRO; Questo prodotto Ë arrivato rotto. L'auricolare sinistro era danneggiato e non funziona correttamente. Sono molto insoddisfatto dell'acquisto e non lo consiglierei.;1
+789;Valgono quello che costano...; Questo prodotto vale il prezzo. Non Ë costoso e funziona bene. La qualit‡ Ë buona e sono soddisfatto dell'acquisto.;1
+790;Buone ma non adatte alla musica; Queste cuffie sono buone ma non adatte alla musica. La qualit‡ del suono non Ë delle migliori e non sono comode da indossare. Sono migliori per le telefonate.;1
+791;Per le chiamate non vanno bene; Questi auricolari non vanno bene per le telefonate. Il microfono non Ë di alta qualit‡ e il suono non Ë chiaro. Sono migliori per la musica.;1
+792;Non mi sono piaciute; Non mi Ë piaciuto questo prodotto. La qualit‡ Ë scarsa e non Ë comodo da indossare. Non lo consiglierei a nessuno.;1
+793;microfono non all'altezza; Il microfono di questo prodotto non Ë di alta qualit‡. Non Ë chiaro ed Ë difficile sentire l'interlocutore. Non vale i soldi spesi.;1
+794;Un auricolare non funziona; Uno degli auricolari non funziona. » difettoso e sono molto deluso. Non lo ricomprerei.;1
+795;Altra cineasta difettosa; Un altro prodotto difettoso. L'auricolare destro non funziona e non Ë comodo da indossare. Non lo consiglio.;1
+796;Carine ma Niente di speciale !!!; Le cuffie sono carine, ma non offrono niente di speciale rispetto ad altre marche.;1
+797;Audio ok  comfort perfetto  tasto touch pessimo!!!; Le cuffie hanno un buon audio e sono comode da indossare, ma il tasto touch Ë pessimo e non funziona ??????? ???????.;1
+798;Prese dopo 4 anni di cuffie Apple; Le cuffie sono state acquistate dopo aver utilizzato per 4 anni cuffie Apple e si tratta di un prodotto di qualit‡ inferiore.;1
+799;Troppo grandi per una donna; Le cuffie sono troppo grandi per una donna e non si adattano bene alla testa.;1
+800;Pessime cuffie per utilizzo quotidiano; Le cuffie non sono adatte per l'utilizzo quotidiano e non soddisfano le mie aspettative.;1
+801;Delusione  riscalda poco e niente.; Il prodotto Ë deludente, non riscalda sufficientemente e non offre nessuna possibilit‡ di personalizzazione.;1
+802;Supporto per cellulare che fa bene il suo lavoro e con un buon rapporto qualit√† prezzo.; Il supporto per cellulare Ë di buona qualit‡ e fa il suo lavoro bene, ma il prezzo Ë un po' elevato.;1
+803;Il supporto da aria condizionata √® poco pratico; Il supporto da aria condizionata Ë poco pratico e non Ë facile da utilizzare.;1
+804;Per il prezzo sembra OK; Il prodotto Ë di buona qualit‡ per il prezzo, ma non offre niente di speciale.;1
+805;comode; Le cuffie sono comode da indossare e non pesano molto.;1
+806;Dopo pochi giorni non si accendevano pi√π; Il prodotto non ha funzionato per molto tempo e non si Ë acceso pi˘ dopo pochi giorni.;1
+807;Usata per mezz'ora...; Ho utilizzato le cuffie per mezz'ora e non ho riscontrato problemi.;1
+808;Per chi vuole allenarsi senza rinunciare alla musica; Il prodotto Ë adatto per chi vuole allenarsi senza rinunciare alla musica, ma non offre nessuna personalizzazione.;1
+809;Dati non veritieri; I dati forniti dal produttore non sono veritieri e non corrispondono alla realt‡.;1
+810;Bella grafica ma scarso nei contenuti; Il prodotto ha una bella grafica, ma non offre contenuti di qualit‡.;1
+811;Va bene per sapere l ora e nulla di piu; Questo prodotto va bene per dire l'ora e nient'altro. » semplice e facile da usare, ma non aspettatevi alcuna funzione aggiuntiva. La qualit‡ Ë media e non Ë molto elegante, ma Ë una buona opzione per chi cerca un orologio di base.;1
+812;Cuffie inaffidabili.; Queste cuffie sono inaffidabili. La qualit‡ del suono non Ë buona e non sono comode da indossare. Il prezzo Ë troppo alto per la qualit‡ che si ottiene. Non le consiglio.;1
+813;Non ricaricava una cuffia; Questo prodotto non mantiene la carica. La durata della batteria Ë molto breve e non vale i soldi spesi. Sono molto deluso e non lo ricomprerei.;1
+814;Prodotto difettato; Questo prodotto Ë difettoso. Non funziona come promesso e la qualit‡ Ë scarsa. Non lo consiglierei a nessuno.;1
+815;Delusione; Questo prodotto Ë una delusione. Non vale i soldi spesi e la qualit‡ non Ë buona. Non lo ricomprerei.;1
+816;Dati non veritieri; Questo prodotto ha dati imprecisi. Non Ë affidabile e non lo consiglierei. La qualit‡ Ë scarsa e non vale i soldi spesi.;1
+817;Bella grafica ma scarso nei contenuti; Questo prodotto ha un bel design ma manca di contenuti. Non vale i soldi spesi e non lo consiglierei.;1
+818;Va bene per sapere l ora e nulla di piu; Questo prodotto va bene per dire l'ora e nient'altro. » semplice e facile da usare, ma non aspettatevi alcuna funzione aggiuntiva. La qualit‡ Ë media e non Ë molto elegante, ma Ë una buona opzione per chi cerca un orologio di base.;1
+819;Dimensioni piccole; Questo prodotto Ë troppo piccolo. Non vale i soldi che costa e la qualit‡ Ë scarsa. Non lo consiglierei.;1
+820;Ottimo rapporto qualit√† prezzo; Questo prodotto ha un ottimo rapporto qualit‡-prezzo. Non Ë costoso e funziona bene. La qualit‡ Ë buona e sono soddisfatto dell'acquisto.;1
+821;Ottimo rapporto qualit√† prezzo; Questo prodotto ha un ottimo rapporto qualit‡-prezzo. Non Ë costoso e funziona bene. La qualit‡ Ë buona e sono soddisfatto dell'acquisto.;1
+822;Un buon prodotto; » un buon prodotto. Funziona bene e la qualit‡ Ë buona. Sono soddisfatto dell'acquisto e lo consiglierei.;1
+823;Ottimo; Questo prodotto Ë ottimo. Vale i soldi spesi e la qualit‡ Ë buona. Sono soddisfatto dell'acquisto e lo consiglierei.;1
+824;Bho; Questo prodotto non Ë buono. La qualit‡ Ë scarsa e non vale i soldi spesi. Non lo consiglierei.;1
+825;Rifiniture pessime; Questo prodotto ha finiture scadenti. La qualit‡ non Ë buona e non vale i soldi spesi. Non lo consiglierei.;1
+826;Mascherina small; La mascherina Ë troppo piccola per la mia testa e non si adatta bene.;1
+827;Buone ma....; Le cuffie sono di buona qualit‡, ma il prezzo Ë un po' alto.;1
+828;Mascherine Ffp2 KARAEASY Small Size; Le mascherine sono di buona qualit‡ e comfortable da indossare, ma il prezzo Ë troppo alto.;1
+829;Economico da far ribrezzo; Il prodotto Ë economico, ma non vale la pena spendere Soldi per something di cosÏ bassa qualit‡.;1
+830;Silenziose; Le cuffie sono silenziose e non disturbano quando si ascolta musica o si guarda un film.;1
+831;Inutile; Il prodotto È inutile e non ha funzionato come previsto.;1
+832;Mancano i bassi  per il resto perfette; Le cuffie mancano di bassi, ma per il resto sono perfette.;1
+833;Buon prodotto; Il prodotto Ë di buona qualit‡ e fa il suo lavoro bene.;1
+834;Comodo ed utile per piccoli lavoretti in casa!; Il prodotto Ë comodo da utilizzare e utile per piccoli lavori in casa.;1
+835;Fairedear 32 in 1 piccolo set di cacciaviti; Il set di cacciaviti Ë piccolo e comodo da utilizzare, ma non offre molte funzionalit‡.;1
+836;Comodo ed utile per piccoli lavoretti in casa!; Il prodotto Ë comodo da utilizzare e utile per piccoli lavori in casa.;1
+837;Fairedear 32 in 1 piccolo set di cacciaviti; Il set di cacciaviti Ë piccolo e comodo da utilizzare, ma non offre molte funzionalit‡.;1
+838;√à  di gomma !!! I colori sono pi√π  spenti dell'immagine nella foto!!; Il prodotto Ë fatto di gomma e i colori sono diversi rispetto all'immagine.;1
+839;Bheee non son male; Il prodotto Ë di buona qualit‡, ma non Ë perfetto.;1
+840;forte odore tipo solvente ed elastici piccoli; Il prodotto ha un forte odore di solvente e gli elastici sono piccoli.;1
+841;Abbastanza buone ma con dei difetti; Questi prodotti sono abbastanza buoni ma hanno alcuni difetti. Non sono perfetti, ma valgono il prezzo. La qualit‡ Ë media e non sono molto eleganti, ma sono una buona opzione per chi cerca un prodotto di base.;1
+842;Mascherina Fpp2 di buona fattura; Questa maschera Fpp2 Ë di buona qualit‡. » ben fatta e funziona bene. Il prezzo Ë un po' alto, ma ne vale la pena per la qualit‡ che si ottiene.;1
+843;Qualit√† misera  non compratele.; Evitate questo prodotto. La qualit‡ Ë scarsa e non vale i soldi spesi. Sono molto deluso e non lo consiglierei.;1
+844;molto deluso; Sono molto deluso da questo prodotto. La qualit‡ Ë scarsa e non funziona come promesso. Non lo consiglierei.;1
+845;Ottima qualit√†; Questo prodotto ha un'ottima qualit‡. Funziona bene e il prezzo Ë ragionevole. Sono soddisfatto dell'acquisto e lo consiglierei.;1
+846;Incertezza sulla autenticit√† del prodotto.; Non sono sicuro che questo prodotto sia autentico. La qualit‡ non Ë buona e non vale i soldi spesi. Non lo consiglio.;1
+847;cattivo odore e 2 mancanti; Questo prodotto ha un cattivo odore e due pezzi mancanti. La qualit‡ Ë scarsa e non vale i soldi spesi. Non lo consiglio.;1
+848;Simpatici gadget per foto; Questi simpatici gadget per foto sono carini. Non sono molto costosi e funzionano bene. La qualit‡ Ë buona e sono soddisfatto dell'acquisto.;1
+849;Anche no.; No, questo prodotto non Ë buono. La qualit‡ Ë scarsa e non vale i soldi spesi. Non lo consiglierei.;1
+850;Ok; Questo prodotto Ë ok. La qualit‡ Ë media e funziona bene. Il prezzo Ë ragionevole e sono soddisfatto dell'acquisto.;1
+851;Qualit√†/prezzo ok; La qualit‡ e il prezzo di questo prodotto sono ok. Non Ë costoso e funziona bene. La qualit‡ Ë media, ma vale il prezzo.;1
+852;Tazza da esposizione; Questa tazza da esposizione non Ë buona. La qualit‡ Ë scarsa e non vale il prezzo. Non la consiglio.;1
+853;Una vera fregatura; Questo prodotto Ë una vera fregatura. La qualit‡ Ë scarsa e non funziona come promesso. Sono molto deluso e non lo consiglierei.;1
+854;Potete essere migliore; Potete fare meglio di questo prodotto. La qualit‡ Ë scarsa e non vale i soldi spesi. Non lo consiglio.;1
+855;Insoddisfacente; Questo prodotto Ë deludente. La qualit‡ Ë scarsa e non funziona come promesso. Non lo consiglio.;1
+856;Tazza topolino Disney; Un prodotto dolce e delizioso per i fan di Topolino!;1
+857;Sembra un giocattolo; Un'accurata recensione della qualit‡ del prodotto.;1
+858;Completamente deluso dall'articolo; Un feedback negativo sulla qualit‡ del prodotto.;1
+859;Prodotto non sicuro!; Un avvertimento per i clienti sulla sicurezza del prodotto.;1
+860;La parte grafica √® un adesivo  attenzione.; Un suggerimento per i clienti sulla parte grafica del prodotto.;1
+861;DA EVITARE!; Un consiglio negativo per i clienti sulla qualit‡ del prodotto.;1
+862;Funzionale; Un'accurata recensione della funzionalit‡ del prodotto.;1
+863;Borraccia Elsa; Un prodotto utile per i fan di Frozen.;1
+864;non √® quanto ordinato; Un feedback negativo sulla qualit‡ del prodotto.;1
+865;Plastica resistente; La tazza topolino Disney Ë fatta di plastica resistente e sembra proprio come il giocattolo originale. Sembra il caso di averla per un bambino che ama i giocattoli di plastica.;1
+866;l ho preso sopra tutto per un gioco su steam .. ma non mi permette di usarlo per muovermi....; Sono stato deluso dal prodotto. Mi aspettavo una tazza che potesse essere usata per bere, invece Ë solo un adesivo per la parte grafica. Non consiglio questo prodotto.;1
+867;Consigliato; La borraccia Elsa Ë molto funzionale e mi Ë stata utile per diverse occasioni. La plastica Ë resistente e non si rompe facilmente. Consiglio questo prodotto.;1
+868;Recensione a cura del blog Vanitiromance ‚≠ê‚≠ê‚≠ê‚≠ê1/2; Il prodotto non Ë stato quello che avevo ordinato. Mi aspettavo una tazza di plastica, invece ho ricevuto un adesivo per la parte grafica. Non consiglio questo prodotto.;1

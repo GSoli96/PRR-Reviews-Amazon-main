@@ -1,0 +1,8 @@
+Accuracy 0.663594470046083
+Precision 0.7774236531259003
+Sensitivity_recall 0.663594470046083
+F1_score 0.6251427219214956
+
+Classe	Precision	Recall	F1-score
+Fake	0.955	0.343	0.503
+Real	0.600	0.984	0.746

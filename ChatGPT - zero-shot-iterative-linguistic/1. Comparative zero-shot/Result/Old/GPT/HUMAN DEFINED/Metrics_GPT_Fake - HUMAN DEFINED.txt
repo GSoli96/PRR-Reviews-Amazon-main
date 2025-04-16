@@ -1,0 +1,6 @@
+Accuracy 0.79
+Precision 0.7101449275362319
+Sensitivity_recall 0.98
+F1_score 0.823529411764706
+
+fake - Human defined
