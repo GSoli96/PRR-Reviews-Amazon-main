@@ -31,7 +31,8 @@ University of Salerno
     </tr>
 </table>
 
-Privacy implications related to the data do not allow us to share or release a labeled dataset of human-defined reviews, because the fake ones are strictly connected to real customers and sellers. Therefore, even if they are maliciously using the Amazon platform for their purposes (i.e., increasing the credibility of sellers or acquiring free products for customers), we might incur defamation issues. To this end, we have made publicly accessible the set of reviews collected without labels (fake and not fake) in order to allow the reproducibility of the study and avoid defamation issues. For other details, you can send a request to the authors to obtain additional information about the dataset.
+Privacy implications related to the data do not allow us to share or release a labeled dataset of human-defined reviews, because the fake ones are strictly connected to real customers and sellers. Therefore, even if they are maliciously using the Amazon platform for their purposes (i.e., increasing the credibility of sellers or acquiring free products for customers), we might incur defamation issues. To this end, we have made publicly accessible the set of reviews collected without labels (fake and not fake) in order to allow the reproducibility of the study and avoid defamation issues. For other details, you can send a request to the authors to obtain additional information about the dataset. The dataset created with LLMs can be found in the following folder: [PARROT with SOTA NLP classifiers/Dataset](https://github.com/GSoli96/PRR-Reviews-Amazon-main/tree/main/PARROT%20with%20SOTA%20NLP%20classifiers/Dataset).
+
 
 ## Data Usage Agreement/ How to cite
 
