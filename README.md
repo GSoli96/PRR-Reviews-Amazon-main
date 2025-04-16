@@ -39,7 +39,7 @@ Cite the following article:
 
 ```
 @article{caruccio2025prp,
-  title={A transfer-learning approach for identifying fake reviews for refund purposes on e-commerce platforms},
+  title={Identifying fake reviews for refund purposes: Evaluating the effectiveness of a transfer-learning model against emerging Large Language Models},
   author={Caruccio, L., Cimino, G., Cirillo, S., Deufemia, V., Polese, G., Solimando, G.},
   journal={TBD},
   year={2025}
